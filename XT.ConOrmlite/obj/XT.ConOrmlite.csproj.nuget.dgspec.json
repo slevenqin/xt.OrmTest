@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\work\\netcore\\XT\\client\\XT.ConOrmlite\\XT.ConOrmlite.csproj": {}
+  },
+  "projects": {
+    "H:\\work\\netcore\\XT\\client\\XT.ConOrmlite\\XT.ConOrmlite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\work\\netcore\\XT\\client\\XT.ConOrmlite\\XT.ConOrmlite.csproj",
+        "projectName": "XT.ConOrmlite",
+        "projectPath": "H:\\work\\netcore\\XT\\client\\XT.ConOrmlite\\XT.ConOrmlite.csproj",
+        "packagesPath": "C:\\Users\\zd100\\.nuget\\packages\\",
+        "outputPath": "H:\\work\\netcore\\XT\\client\\XT.ConOrmlite\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zd100\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.18, )"
+            },
+            "ServiceStack.Common": {
+              "target": "Package",
+              "version": "[5.7.0, )"
+            },
+            "ServiceStack.Interfaces": {
+              "target": "Package",
+              "version": "[5.7.0, )"
+            },
+            "ServiceStack.OrmLite": {
+              "target": "Package",
+              "version": "[5.7.0, )"
+            },
+            "ServiceStack.OrmLite.MySql": {
+              "target": "Package",
+              "version": "[5.7.0, )"
+            },
+            "ServiceStack.Text": {
+              "target": "Package",
+              "version": "[5.7.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

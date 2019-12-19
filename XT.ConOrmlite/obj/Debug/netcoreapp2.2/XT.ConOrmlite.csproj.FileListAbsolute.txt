@@ -1,0 +1,10 @@
+H:\work\netcore\XT\client\XT.ConOrmlite\bin\Debug\netcoreapp2.2\XT.ConOrmlite.deps.json
+H:\work\netcore\XT\client\XT.ConOrmlite\bin\Debug\netcoreapp2.2\XT.ConOrmlite.runtimeconfig.json
+H:\work\netcore\XT\client\XT.ConOrmlite\bin\Debug\netcoreapp2.2\XT.ConOrmlite.runtimeconfig.dev.json
+H:\work\netcore\XT\client\XT.ConOrmlite\bin\Debug\netcoreapp2.2\XT.ConOrmlite.dll
+H:\work\netcore\XT\client\XT.ConOrmlite\bin\Debug\netcoreapp2.2\XT.ConOrmlite.pdb
+H:\work\netcore\XT\client\XT.ConOrmlite\obj\Debug\netcoreapp2.2\XT.ConOrmlite.AssemblyInfoInputs.cache
+H:\work\netcore\XT\client\XT.ConOrmlite\obj\Debug\netcoreapp2.2\XT.ConOrmlite.AssemblyInfo.cs
+H:\work\netcore\XT\client\XT.ConOrmlite\obj\Debug\netcoreapp2.2\XT.ConOrmlite.dll
+H:\work\netcore\XT\client\XT.ConOrmlite\obj\Debug\netcoreapp2.2\XT.ConOrmlite.pdb
+H:\work\netcore\XT\client\XT.ConOrmlite\obj\Debug\netcoreapp2.2\XT.ConOrmlite.csprojAssemblyReference.cache

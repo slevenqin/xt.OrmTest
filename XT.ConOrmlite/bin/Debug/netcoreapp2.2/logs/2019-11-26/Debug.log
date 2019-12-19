@@ -1,0 +1,6429 @@
+
+
+【日志时间】： 2019-11-26 18:24:25,139  【线程ID】： 15    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42931033_opening:7_打开 
+
+
+【日志时间】： 2019-11-26 18:24:26,146  【线程ID】： 16    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49538252_opening:8_打开 
+
+
+【日志时间】： 2019-11-26 18:24:27,146  【线程ID】： 17    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21647132_opening:9_打开 
+
+
+【日志时间】： 2019-11-26 18:24:28,140  【线程ID】： 18    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6451435_opening:10_打开 
+
+
+【日志时间】： 2019-11-26 18:24:29,139  【线程ID】： 19    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34717384_opening:11_打开 
+
+
+【日志时间】： 2019-11-26 18:24:30,159  【线程ID】： 20    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22460983_opening:12_打开 
+
+
+【日志时间】： 2019-11-26 18:24:31,149  【线程ID】： 21    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24388906_opening:13_打开 
+
+
+【日志时间】： 2019-11-26 18:24:32,154  【线程ID】： 22    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25960677_opening:14_打开 
+
+
+【日志时间】： 2019-11-26 18:24:33,143  【线程ID】： 23    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31787101_opening:15_打开 
+
+
+【日志时间】： 2019-11-26 18:24:34,146  【线程ID】： 24    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11865849_opening:16_打开 
+
+
+【日志时间】： 2019-11-26 18:24:35,140  【线程ID】： 25    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2256335_opening:17_打开 
+
+
+【日志时间】： 2019-11-26 18:24:36,156  【线程ID】： 26    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52159047_opening:18_打开 
+
+
+【日志时间】： 2019-11-26 18:24:37,149  【线程ID】： 27    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10560058_opening:19_打开 
+
+
+【日志时间】： 2019-11-26 18:24:38,158  【线程ID】： 28    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2843250_opening:20_打开 
+
+
+【日志时间】： 2019-11-26 18:24:39,142  【线程ID】： 29    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44879274_opening:21_打开 
+
+
+【日志时间】： 2019-11-26 18:24:40,156  【线程ID】： 30    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60588784_opening:22_打开 
+
+
+【日志时间】： 2019-11-26 18:24:40,663  【线程ID】： 1    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：当前循环数：0;__开启:23__关闭:0__正在连接数23; 
+
+
+【日志时间】： 2019-11-26 18:24:41,148  【线程ID】： 31    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5903229_opening:23_打开 
+
+
+【日志时间】： 2019-11-26 18:24:41,649  【线程ID】： 32    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:51392771_opening:24_打开 
+
+
+【日志时间】： 2019-11-26 18:24:42,654  【线程ID】： 33    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45743709_opening:25_打开 
+
+
+【日志时间】： 2019-11-26 18:24:43,666  【线程ID】： 34    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35974591_opening:26_打开 
+
+
+【日志时间】： 2019-11-26 18:24:44,640  【线程ID】： 10    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49262120_opening:27_打开 
+
+
+【日志时间】： 2019-11-26 18:24:45,643  【线程ID】： 35    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26676330_opening:28_打开 
+
+
+【日志时间】： 2019-11-26 18:24:46,645  【线程ID】： 36    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13812657_opening:29_打开 
+
+
+【日志时间】： 2019-11-26 18:24:47,640  【线程ID】： 37    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61488610_opening:30_打开 
+
+
+【日志时间】： 2019-11-26 18:24:48,653  【线程ID】： 38    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31009643_opening:31_打开 
+
+
+【日志时间】： 2019-11-26 18:24:49,647  【线程ID】： 39    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42212859_opening:32_打开 
+
+
+【日志时间】： 2019-11-26 18:24:50,650  【线程ID】： 40    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36831338_opening:33_打开 
+
+
+【日志时间】： 2019-11-26 18:24:51,640  【线程ID】： 41    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31365329_opening:34_打开 
+
+
+【日志时间】： 2019-11-26 18:24:52,656  【线程ID】： 42    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:3183570_opening:35_打开 
+
+
+【日志时间】： 2019-11-26 18:24:53,656  【线程ID】： 43    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48258320_opening:36_打开 
+
+
+【日志时间】： 2019-11-26 18:24:54,639  【线程ID】： 44    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:51299798_opening:37_打开 
+
+
+【日志时间】： 2019-11-26 18:24:55,642  【线程ID】： 45    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59088883_opening:38_打开 
+
+
+【日志时间】： 2019-11-26 18:24:56,654  【线程ID】： 46    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30109628_opening:39_打开 
+
+
+【日志时间】： 2019-11-26 18:24:57,640  【线程ID】： 47    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39427399_opening:40_打开 
+
+
+【日志时间】： 2019-11-26 18:24:58,658  【线程ID】： 48    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63932886_opening:41_打开 
+
+
+【日志时间】： 2019-11-26 18:24:59,660  【线程ID】： 49    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5051240_opening:42_打开 
+
+
+【日志时间】： 2019-11-26 18:25:00,640  【线程ID】： 50    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37277064_opening:43_打开 
+
+
+【日志时间】： 2019-11-26 18:25:00,665  【线程ID】： 1    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：当前循环数：0;__开启:44__关闭:0__正在连接数44; 
+
+
+【日志时间】： 2019-11-26 18:25:01,671  【线程ID】： 51    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25885506_opening:44_打开 
+
+
+【日志时间】： 2019-11-26 18:25:02,640  【线程ID】： 52    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41259848_opening:45_打开 
+
+
+【日志时间】： 2019-11-26 18:25:03,648  【线程ID】： 53    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35765328_opening:46_打开 
+
+
+【日志时间】： 2019-11-26 18:25:04,657  【线程ID】： 54    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6991000_opening:47_打开 
+
+
+【日志时间】： 2019-11-26 18:25:05,639  【线程ID】： 55    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49028255_opening:48_打开 
+
+
+【日志时间】： 2019-11-26 18:25:06,657  【线程ID】： 56    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40434189_opening:49_打开 
+
+
+【日志时间】： 2019-11-26 18:25:07,657  【线程ID】： 57    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18492619_opening:50_打开 
+
+
+【日志时间】： 2019-11-26 18:25:08,657  【线程ID】： 58    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42302795_opening:51_打开 
+
+
+【日志时间】： 2019-11-26 18:25:09,650  【线程ID】： 59    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30371839_opening:52_打开 
+
+
+【日志时间】： 2019-11-26 18:25:10,639  【线程ID】： 60    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36939525_opening:53_打开 
+
+
+【日志时间】： 2019-11-26 18:25:11,649  【线程ID】： 61    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37781497_opening:54_打开 
+
+
+【日志时间】： 2019-11-26 18:25:11,738  【线程ID】： 4    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6044116_opening:55_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:11,738  【线程ID】： 6    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35320229_opening:55_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:11,738  【线程ID】： 5    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4032828_opening:55_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:11,738  【线程ID】： 7    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12547953_opening:55_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:11,741  【线程ID】： 5    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:33711845_opening:55_打开 
+
+
+【日志时间】： 2019-11-26 18:25:11,742  【线程ID】： 6    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:17653682_opening:56_打开 
+
+
+【日志时间】： 2019-11-26 18:25:11,742  【线程ID】： 4    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59817589_opening:56_打开 
+
+
+【日志时间】： 2019-11-26 18:25:11,742  【线程ID】： 7    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41622463_opening:56_打开 
+
+
+【日志时间】： 2019-11-26 18:25:12,142  【线程ID】： 12    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20974680_opening:59_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:12,144  【线程ID】： 12    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37916227_opening:59_打开 
+
+
+【日志时间】： 2019-11-26 18:25:13,141  【线程ID】： 62    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:17735936_opening:60_打开 
+
+
+【日志时间】： 2019-11-26 18:25:13,144  【线程ID】： 13    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58366981_opening:61_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:13,146  【线程ID】： 13    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38583594_opening:61_打开 
+
+
+【日志时间】： 2019-11-26 18:25:14,150  【线程ID】： 14    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56140151_opening:62_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:14,154  【线程ID】： 14    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:1997173_opening:62_打开 
+
+
+【日志时间】： 2019-11-26 18:25:14,156  【线程ID】： 63    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38759683_opening:63_打开 
+
+
+【日志时间】： 2019-11-26 18:25:15,141  【线程ID】： 64    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21713936_opening:64_打开 
+
+
+【日志时间】： 2019-11-26 18:25:15,142  【线程ID】： 15    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42931033_opening:65_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:15,144  【线程ID】： 15    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39053774_opening:65_打开 
+
+
+【日志时间】： 2019-11-26 18:25:16,148  【线程ID】： 16    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49538252_opening:66_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:16,149  【线程ID】： 65    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43719162_opening:66_打开 
+
+
+【日志时间】： 2019-11-26 18:25:16,150  【线程ID】： 16    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:62696216_opening:67_打开 
+
+
+【日志时间】： 2019-11-26 18:25:17,142  【线程ID】： 66    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35252761_opening:68_打开 
+
+
+【日志时间】： 2019-11-26 18:25:17,148  【线程ID】： 17    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21647132_opening:69_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:17,150  【线程ID】： 17    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36736776_opening:69_打开 
+
+
+【日志时间】： 2019-11-26 18:25:18,146  【线程ID】： 18    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6451435_opening:70_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:18,149  【线程ID】： 18    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26998456_opening:70_打开 
+
+
+【日志时间】： 2019-11-26 18:25:18,165  【线程ID】： 67    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34264137_opening:71_打开 
+
+
+【日志时间】： 2019-11-26 18:25:19,141  【线程ID】： 68    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:17468430_opening:72_打开 
+
+
+【日志时间】： 2019-11-26 18:25:19,141  【线程ID】： 19    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34717384_opening:73_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:19,143  【线程ID】： 19    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60644701_opening:73_打开 
+
+
+【日志时间】： 2019-11-26 18:25:20,141  【线程ID】： 69    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13920238_opening:74_打开 
+
+
+【日志时间】： 2019-11-26 18:25:20,161  【线程ID】： 20    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22460983_opening:75_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:20,163  【线程ID】： 20    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30135413_opening:75_打开 
+
+
+【日志时间】： 2019-11-26 18:25:20,667  【线程ID】： 1    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：当前循环数：13;__开启:76__关闭:13__正在连接数63; 
+
+
+【日志时间】： 2019-11-26 18:25:21,147  【线程ID】： 70    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35003381_opening:76_打开 
+
+
+【日志时间】： 2019-11-26 18:25:21,151  【线程ID】： 21    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24388906_opening:77_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:21,154  【线程ID】： 21    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:23128995_opening:77_打开 
+
+
+【日志时间】： 2019-11-26 18:25:22,142  【线程ID】： 71    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42987379_opening:78_打开 
+
+
+【日志时间】： 2019-11-26 18:25:22,156  【线程ID】： 22    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25960677_opening:79_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:22,158  【线程ID】： 22    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:65532796_opening:79_打开 
+
+
+【日志时间】： 2019-11-26 18:25:23,147  【线程ID】： 23    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31787101_opening:80_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:23,150  【线程ID】： 23    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63449985_opening:80_打开 
+
+
+【日志时间】： 2019-11-26 18:25:23,163  【线程ID】： 72    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:16296672_opening:81_打开 
+
+
+【日志时间】： 2019-11-26 18:25:24,141  【线程ID】： 73    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:14786549_opening:82_打开 
+
+
+【日志时间】： 2019-11-26 18:25:24,147  【线程ID】： 24    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11865849_opening:83_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:24,149  【线程ID】： 24    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57600139_opening:83_打开 
+
+
+【日志时间】： 2019-11-26 18:25:25,140  【线程ID】： 74    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:14183155_opening:84_打开 
+
+
+【日志时间】： 2019-11-26 18:25:25,141  【线程ID】： 25    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2256335_opening:85_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:25,143  【线程ID】： 25    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35588587_opening:85_打开 
+
+
+【日志时间】： 2019-11-26 18:25:26,143  【线程ID】： 75    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56021279_opening:86_打开 
+
+
+【日志时间】： 2019-11-26 18:25:26,158  【线程ID】： 26    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52159047_opening:87_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:26,161  【线程ID】： 26    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48191601_opening:87_打开 
+
+
+【日志时间】： 2019-11-26 18:25:27,157  【线程ID】： 27    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10560058_opening:88_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:27,160  【线程ID】： 27    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52435881_opening:88_打开 
+
+
+【日志时间】： 2019-11-26 18:25:27,164  【线程ID】： 76    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58776932_opening:89_打开 
+
+
+【日志时间】： 2019-11-26 18:25:28,141  【线程ID】： 77    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34111791_opening:90_打开 
+
+
+【日志时间】： 2019-11-26 18:25:28,159  【线程ID】： 28    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2843250_opening:91_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:28,162  【线程ID】： 28    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64224907_opening:91_打开 
+
+
+【日志时间】： 2019-11-26 18:25:29,142  【线程ID】： 78    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42400885_opening:92_打开 
+
+
+【日志时间】： 2019-11-26 18:25:29,143  【线程ID】： 29    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44879274_opening:93_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:29,145  【线程ID】： 29    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61683153_opening:93_打开 
+
+
+【日志时间】： 2019-11-26 18:25:30,142  【线程ID】： 79    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36345071_opening:94_打开 
+
+
+【日志时间】： 2019-11-26 18:25:30,158  【线程ID】： 30    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60588784_opening:95_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:30,163  【线程ID】： 30    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57405255_opening:95_打开 
+
+
+【日志时间】： 2019-11-26 18:25:31,142  【线程ID】： 80    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20455803_opening:96_打开 
+
+
+【日志时间】： 2019-11-26 18:25:31,150  【线程ID】： 31    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5903229_opening:97_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:31,152  【线程ID】： 31    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:23319111_opening:97_打开 
+
+
+【日志时间】： 2019-11-26 18:25:31,650  【线程ID】： 32    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:51392771_opening:98_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:31,653  【线程ID】： 32    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57243299_opening:98_打开 
+
+
+【日志时间】： 2019-11-26 18:25:32,647  【线程ID】： 81    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10752955_opening:99_打开 
+
+
+【日志时间】： 2019-11-26 18:25:32,663  【线程ID】： 33    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45743709_opening:100_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:32,665  【线程ID】： 33    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25763907_opening:100_打开 
+
+
+【日志时间】： 2019-11-26 18:25:33,644  【线程ID】： 82    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:16934618_opening:101_打开 
+
+
+【日志时间】： 2019-11-26 18:25:33,670  【线程ID】： 34    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35974591_opening:102_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:33,672  【线程ID】： 34    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39252654_opening:102_打开 
+
+
+【日志时间】： 2019-11-26 18:25:34,643  【线程ID】： 10    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49262120_opening:103_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:34,644  【线程ID】： 83    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31563649_opening:103_打开 
+
+
+【日志时间】： 2019-11-26 18:25:34,646  【线程ID】： 10    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2202888_opening:104_打开 
+
+
+【日志时间】： 2019-11-26 18:25:35,640  【线程ID】： 84    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30557701_opening:105_打开 
+
+
+【日志时间】： 2019-11-26 18:25:35,645  【线程ID】： 35    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26676330_opening:106_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:35,647  【线程ID】： 35    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42862642_opening:106_打开 
+
+
+【日志时间】： 2019-11-26 18:25:36,641  【线程ID】： 85    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34105531_opening:107_打开 
+
+
+【日志时间】： 2019-11-26 18:25:36,647  【线程ID】： 36    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13812657_opening:108_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:36,650  【线程ID】： 36    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44820045_opening:108_打开 
+
+
+【日志时间】： 2019-11-26 18:25:37,641  【线程ID】： 37    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61488610_opening:109_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:37,643  【线程ID】： 86    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57553281_opening:109_打开 
+
+
+【日志时间】： 2019-11-26 18:25:37,644  【线程ID】： 37    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12516465_opening:110_打开 
+
+
+【日志时间】： 2019-11-26 18:25:38,658  【线程ID】： 38    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31009643_opening:111_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:38,660  【线程ID】： 38    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36675853_opening:111_打开 
+
+
+【日志时间】： 2019-11-26 18:25:38,662  【线程ID】： 87    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4513398_opening:112_打开 
+
+
+【日志时间】： 2019-11-26 18:25:39,641  【线程ID】： 88    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48622306_opening:113_打开 
+
+
+【日志时间】： 2019-11-26 18:25:39,650  【线程ID】： 39    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42212859_opening:114_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:39,652  【线程ID】： 39    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18275150_opening:114_打开 
+
+
+【日志时间】： 2019-11-26 18:25:40,641  【线程ID】： 89    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31808078_opening:115_打开 
+
+
+【日志时间】： 2019-11-26 18:25:40,652  【线程ID】： 40    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36831338_opening:116_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:40,654  【线程ID】： 40    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37373120_opening:116_打开 
+
+
+【日志时间】： 2019-11-26 18:25:40,669  【线程ID】： 1    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：当前循环数：34;__开启:117__关闭:34__正在连接数83; 
+
+
+【日志时间】： 2019-11-26 18:25:41,643  【线程ID】： 41    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31365329_opening:117_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:41,646  【线程ID】： 41    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:66249304_opening:117_打开 
+
+
+【日志时间】： 2019-11-26 18:25:41,658  【线程ID】： 90    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41440460_opening:118_打开 
+
+
+【日志时间】： 2019-11-26 18:25:42,641  【线程ID】： 91    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:17172591_opening:119_打开 
+
+
+【日志时间】： 2019-11-26 18:25:42,657  【线程ID】： 42    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:3183570_opening:120_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:42,659  【线程ID】： 42    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13886765_opening:120_打开 
+
+
+【日志时间】： 2019-11-26 18:25:43,642  【线程ID】： 92    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:27230451_opening:121_打开 
+
+
+【日志时间】： 2019-11-26 18:25:43,657  【线程ID】： 43    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48258320_opening:122_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:43,660  【线程ID】： 43    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18896939_opening:122_打开 
+
+
+【日志时间】： 2019-11-26 18:25:44,642  【线程ID】： 44    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:51299798_opening:123_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:44,644  【线程ID】： 44    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24240361_opening:123_打开 
+
+
+【日志时间】： 2019-11-26 18:25:44,649  【线程ID】： 93    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25709460_opening:124_打开 
+
+
+【日志时间】： 2019-11-26 18:25:45,642  【线程ID】： 94    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:16759322_opening:125_打开 
+
+
+【日志时间】： 2019-11-26 18:25:45,644  【线程ID】： 45    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59088883_opening:126_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:45,646  【线程ID】： 45    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59807479_opening:126_打开 
+
+
+【日志时间】： 2019-11-26 18:25:46,658  【线程ID】： 46    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30109628_opening:127_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:46,660  【线程ID】： 46    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53575130_opening:127_打开 
+
+
+【日志时间】： 2019-11-26 18:25:46,669  【线程ID】： 95    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10804490_opening:128_打开 
+
+
+【日志时间】： 2019-11-26 18:25:47,641  【线程ID】： 96    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25381398_opening:129_打开 
+
+
+【日志时间】： 2019-11-26 18:25:47,643  【线程ID】： 47    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39427399_opening:130_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:47,645  【线程ID】： 47    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26186489_opening:130_打开 
+
+
+【日志时间】： 2019-11-26 18:25:48,643  【线程ID】： 97    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39643309_opening:131_打开 
+
+
+【日志时间】： 2019-11-26 18:25:48,660  【线程ID】： 48    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63932886_opening:132_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:48,662  【线程ID】： 48    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45420983_opening:132_打开 
+
+
+【日志时间】： 2019-11-26 18:25:49,649  【线程ID】： 98    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28949451_opening:133_打开 
+
+
+【日志时间】： 2019-11-26 18:25:49,662  【线程ID】： 49    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5051240_opening:134_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:49,666  【线程ID】： 49    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8666367_opening:134_打开 
+
+
+【日志时间】： 2019-11-26 18:25:50,641  【线程ID】： 99    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52651241_opening:135_打开 
+
+
+【日志时间】： 2019-11-26 18:25:50,642  【线程ID】： 50    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37277064_opening:135_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:50,644  【线程ID】： 50    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58496644_opening:136_打开 
+
+
+【日志时间】： 2019-11-26 18:25:51,646  【线程ID】： 100    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56514860_opening:137_打开 
+
+
+【日志时间】： 2019-11-26 18:25:51,672  【线程ID】： 51    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25885506_opening:138_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:51,674  【线程ID】： 51    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41361640_opening:138_打开 
+
+
+【日志时间】： 2019-11-26 18:25:52,641  【线程ID】： 101    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34399929_opening:139_打开 
+
+
+【日志时间】： 2019-11-26 18:25:52,643  【线程ID】： 52    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41259848_opening:140_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:52,645  【线程ID】： 52    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64195353_opening:140_打开 
+
+
+【日志时间】： 2019-11-26 18:25:53,644  【线程ID】： 102    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58107198_opening:141_打开 
+
+
+【日志时间】： 2019-11-26 18:25:53,650  【线程ID】： 53    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35765328_opening:142_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:53,652  【线程ID】： 53    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43556897_opening:142_打开 
+
+
+【日志时间】： 2019-11-26 18:25:54,642  【线程ID】： 103    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57225642_opening:143_打开 
+
+
+【日志时间】： 2019-11-26 18:25:54,660  【线程ID】： 54    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6991000_opening:144_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:54,667  【线程ID】： 54    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:1507228_opening:144_打开 
+
+
+【日志时间】： 2019-11-26 18:25:55,642  【线程ID】： 55    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49028255_opening:145_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:55,645  【线程ID】： 55    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25503784_opening:145_打开 
+
+
+【日志时间】： 2019-11-26 18:25:55,647  【线程ID】： 104    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8819221_opening:146_打开 
+
+
+【日志时间】： 2019-11-26 18:25:56,643  【线程ID】： 105    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60736472_opening:147_打开 
+
+
+【日志时间】： 2019-11-26 18:25:56,660  【线程ID】： 56    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40434189_opening:148_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:56,662  【线程ID】： 56    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:65515009_opening:148_打开 
+
+
+【日志时间】： 2019-11-26 18:25:57,649  【线程ID】： 106    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44380885_opening:149_打开 
+
+
+【日志时间】： 2019-11-26 18:25:57,659  【线程ID】： 57    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18492619_opening:150_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:57,662  【线程ID】： 57    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13813003_opening:150_打开 
+
+
+【日志时间】： 2019-11-26 18:25:58,660  【线程ID】： 58    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42302795_opening:151_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:58,661  【线程ID】： 107    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20291055_opening:151_打开 
+
+
+【日志时间】： 2019-11-26 18:25:59,651  【线程ID】： 59    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30371839_opening:152_关闭 
+
+
+【日志时间】： 2019-11-26 18:25:59,653  【线程ID】： 58    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26541712_opening:152_打开 
+
+
+【日志时间】： 2019-11-26 18:26:00,641  【线程ID】： 60    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36939525_opening:153_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:00,642  【线程ID】： 59    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4747241_opening:153_打开 
+
+
+【日志时间】： 2019-11-26 18:26:00,671  【线程ID】： 1    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：当前循环数：54;__开启:154__关闭:54__正在连接数100; 
+
+
+【日志时间】： 2019-11-26 18:26:01,650  【线程ID】： 61    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37781497_opening:154_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:01,652  【线程ID】： 60    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57595998_opening:154_打开 
+
+
+【日志时间】： 2019-11-26 18:26:01,743  【线程ID】： 5    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:33711845_opening:155_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:01,744  【线程ID】： 7    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41622463_opening:155_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:01,744  【线程ID】： 6    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:17653682_opening:155_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:01,744  【线程ID】： 4    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59817589_opening:155_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:01,745  【线程ID】： 108    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59353521_opening:155_打开 
+
+
+【日志时间】： 2019-11-26 18:26:01,745  【线程ID】： 109    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:32737066_opening:155_打开 
+
+
+【日志时间】： 2019-11-26 18:26:01,745  【线程ID】： 61    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12351855_opening:155_打开 
+
+
+【日志时间】： 2019-11-26 18:26:01,746  【线程ID】： 110    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:62198255_opening:158_打开 
+
+
+【日志时间】： 2019-11-26 18:26:02,146  【线程ID】： 12    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37916227_opening:159_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:02,148  【线程ID】： 5    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37489757_opening:159_打开 
+
+
+【日志时间】： 2019-11-26 18:26:03,145  【线程ID】： 62    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:17735936_opening:160_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:03,147  【线程ID】： 4    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48209832_opening:160_打开 
+
+
+【日志时间】： 2019-11-26 18:26:03,148  【线程ID】： 13    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38583594_opening:161_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:03,150  【线程ID】： 6    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42194754_opening:161_打开 
+
+
+【日志时间】： 2019-11-26 18:26:04,158  【线程ID】： 14    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:1997173_opening:162_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:04,159  【线程ID】： 7    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31364015_opening:162_打开 
+
+
+【日志时间】： 2019-11-26 18:26:04,159  【线程ID】： 63    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38759683_opening:162_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:04,162  【线程ID】： 12    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63403007_opening:163_打开 
+
+
+【日志时间】： 2019-11-26 18:26:05,143  【线程ID】： 64    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21713936_opening:164_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:05,145  【线程ID】： 13    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:51781231_opening:164_打开 
+
+
+【日志时间】： 2019-11-26 18:26:05,146  【线程ID】： 15    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39053774_opening:165_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:05,148  【线程ID】： 14    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54718731_opening:165_打开 
+
+
+【日志时间】： 2019-11-26 18:26:06,151  【线程ID】： 16    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:62696216_opening:166_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:06,154  【线程ID】： 16    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31071611_opening:166_打开 
+
+
+【日志时间】： 2019-11-26 18:26:06,152  【线程ID】： 65    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43719162_opening:166_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:06,154  【线程ID】： 15    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:55467396_opening:167_打开 
+
+
+【日志时间】： 2019-11-26 18:26:07,144  【线程ID】： 66    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35252761_opening:168_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:07,146  【线程ID】： 62    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58006993_opening:168_打开 
+
+
+【日志时间】： 2019-11-26 18:26:07,151  【线程ID】： 17    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36736776_opening:169_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:07,153  【线程ID】： 63    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29126747_opening:169_打开 
+
+
+【日志时间】： 2019-11-26 18:26:08,153  【线程ID】： 18    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26998456_opening:170_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:08,154  【线程ID】： 17    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64538993_opening:170_打开 
+
+
+【日志时间】： 2019-11-26 18:26:08,166  【线程ID】： 67    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34264137_opening:171_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:08,168  【线程ID】： 64    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30192928_opening:171_打开 
+
+
+【日志时间】： 2019-11-26 18:26:09,142  【线程ID】： 68    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:17468430_opening:172_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:09,144  【线程ID】： 18    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:65615241_opening:172_打开 
+
+
+【日志时间】： 2019-11-26 18:26:09,145  【线程ID】： 19    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60644701_opening:173_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:09,146  【线程ID】： 65    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42853371_opening:173_打开 
+
+
+【日志时间】： 2019-11-26 18:26:10,143  【线程ID】： 69    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13920238_opening:174_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:10,145  【线程ID】： 19    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13273752_opening:174_打开 
+
+
+【日志时间】： 2019-11-26 18:26:10,165  【线程ID】： 20    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30135413_opening:175_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:10,167  【线程ID】： 66    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20643023_opening:175_打开 
+
+
+【日志时间】： 2019-11-26 18:26:11,149  【线程ID】： 70    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35003381_opening:176_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:11,150  【线程ID】： 20    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11373314_opening:176_打开 
+
+
+【日志时间】： 2019-11-26 18:26:11,155  【线程ID】： 21    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:23128995_opening:177_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:11,156  【线程ID】： 67    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25977518_opening:177_打开 
+
+
+【日志时间】： 2019-11-26 18:26:12,144  【线程ID】： 71    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42987379_opening:178_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:12,146  【线程ID】： 21    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45214701_opening:178_打开 
+
+
+【日志时间】： 2019-11-26 18:26:12,162  【线程ID】： 22    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:65532796_opening:179_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:12,163  【线程ID】： 68    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6917174_opening:179_打开 
+
+
+【日志时间】： 2019-11-26 18:26:13,153  【线程ID】： 23    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63449985_opening:180_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:13,154  【线程ID】： 22    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54752321_opening:180_打开 
+
+
+【日志时间】： 2019-11-26 18:26:13,166  【线程ID】： 72    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:16296672_opening:181_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:13,168  【线程ID】： 69    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19272801_opening:181_打开 
+
+
+【日志时间】： 2019-11-26 18:26:14,143  【线程ID】： 73    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:14786549_opening:182_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:14,145  【线程ID】： 23    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:47741942_opening:182_打开 
+
+
+【日志时间】： 2019-11-26 18:26:14,151  【线程ID】： 24    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57600139_opening:183_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:14,153  【线程ID】： 70    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43851770_opening:183_打开 
+
+
+【日志时间】： 2019-11-26 18:26:15,140  【线程ID】： 74    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:14183155_opening:184_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:15,142  【线程ID】： 24    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:46251828_opening:184_打开 
+
+
+【日志时间】： 2019-11-26 18:26:15,145  【线程ID】： 25    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35588587_opening:185_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:15,146  【线程ID】： 71    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8212754_opening:185_打开 
+
+
+【日志时间】： 2019-11-26 18:26:16,145  【线程ID】： 75    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56021279_opening:186_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:16,146  【线程ID】： 25    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45814213_opening:186_打开 
+
+
+【日志时间】： 2019-11-26 18:26:16,163  【线程ID】： 26    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48191601_opening:187_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:16,164  【线程ID】： 72    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10195602_opening:187_打开 
+
+
+【日志时间】： 2019-11-26 18:26:17,162  【线程ID】： 27    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52435881_opening:188_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:17,164  【线程ID】： 26    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18393173_opening:188_打开 
+
+
+【日志时间】： 2019-11-26 18:26:17,165  【线程ID】： 76    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58776932_opening:189_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:17,167  【线程ID】： 73    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29528911_opening:189_打开 
+
+
+【日志时间】： 2019-11-26 18:26:18,147  【线程ID】： 77    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34111791_opening:190_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:18,155  【线程ID】： 27    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19674623_opening:190_打开 
+
+
+【日志时间】： 2019-11-26 18:26:18,163  【线程ID】： 28    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64224907_opening:191_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:18,164  【线程ID】： 74    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41271491_opening:191_打开 
+
+
+【日志时间】： 2019-11-26 18:26:19,153  【线程ID】： 29    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61683153_opening:192_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:19,153  【线程ID】： 78    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42400885_opening:192_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:19,161  【线程ID】： 75    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40838839_opening:192_打开 
+
+
+【日志时间】： 2019-11-26 18:26:19,161  【线程ID】： 28    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:65230257_opening:192_打开 
+
+
+【日志时间】： 2019-11-26 18:26:20,143  【线程ID】： 79    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36345071_opening:194_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:20,144  【线程ID】： 29    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:14577624_opening:194_打开 
+
+
+【日志时间】： 2019-11-26 18:26:20,164  【线程ID】： 30    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57405255_opening:195_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:20,165  【线程ID】： 76    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42678819_opening:195_打开 
+
+
+【日志时间】： 2019-11-26 18:26:20,671  【线程ID】： 1    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：链接hashCode:8457558异常:error connecting: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.;____开启:190_____关闭:91_____正在连接数99
+链接hashCode:7022049异常:error connecting: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.;____开启:192_____关闭:93_____正在连接数99
+链接hashCode:17006799异常:error connecting: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.;____开启:194_____关闭:94_____正在连接数100
+ 
+
+
+【日志时间】： 2019-11-26 18:26:21,144  【线程ID】： 80    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20455803_opening:196_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:21,146  【线程ID】： 30    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:62117347_opening:196_打开 
+
+
+【日志时间】： 2019-11-26 18:26:21,154  【线程ID】： 31    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:23319111_opening:197_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:21,156  【线程ID】： 77    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6681207_opening:197_打开 
+
+
+【日志时间】： 2019-11-26 18:26:21,655  【线程ID】： 32    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57243299_opening:198_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:21,657  【线程ID】： 78    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19307928_opening:198_打开 
+
+
+【日志时间】： 2019-11-26 18:26:22,648  【线程ID】： 81    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10752955_opening:199_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:22,650  【线程ID】： 31    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:55375379_opening:199_打开 
+
+
+【日志时间】： 2019-11-26 18:26:22,666  【线程ID】： 33    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25763907_opening:200_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:22,668  【线程ID】： 32    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30057241_opening:200_打开 
+
+
+【日志时间】： 2019-11-26 18:26:23,648  【线程ID】： 82    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:16934618_opening:201_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:23,651  【线程ID】： 33    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39994373_opening:201_打开 
+
+
+【日志时间】： 2019-11-26 18:26:23,675  【线程ID】： 34    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39252654_opening:202_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:23,676  【线程ID】： 79    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56934349_opening:202_打开 
+
+
+【日志时间】： 2019-11-26 18:26:24,645  【线程ID】： 83    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31563649_opening:203_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:24,646  【线程ID】： 10    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2202888_opening:203_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:24,647  【线程ID】： 34    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31697421_opening:203_打开 
+
+
+【日志时间】： 2019-11-26 18:26:24,647  【线程ID】： 80    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4358616_opening:204_打开 
+
+
+【日志时间】： 2019-11-26 18:26:25,642  【线程ID】： 84    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30557701_opening:205_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:25,644  【线程ID】： 10    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:32021128_opening:205_打开 
+
+
+【日志时间】： 2019-11-26 18:26:25,649  【线程ID】： 35    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42862642_opening:206_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:25,651  【线程ID】： 81    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48061575_opening:206_打开 
+
+
+【日志时间】： 2019-11-26 18:26:26,643  【线程ID】： 85    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34105531_opening:207_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:26,644  【线程ID】： 35    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41067717_opening:207_打开 
+
+
+【日志时间】： 2019-11-26 18:26:26,652  【线程ID】： 36    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44820045_opening:208_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:26,653  【线程ID】： 82    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2083306_opening:208_打开 
+
+
+【日志时间】： 2019-11-26 18:26:27,645  【线程ID】： 86    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57553281_opening:209_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:27,645  【线程ID】： 37    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12516465_opening:209_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:27,647  【线程ID】： 83    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:33749380_opening:209_打开 
+
+
+【日志时间】： 2019-11-26 18:26:27,648  【线程ID】： 36    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34409196_opening:209_打开 
+
+
+【日志时间】： 2019-11-26 18:26:28,665  【线程ID】： 38    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36675853_opening:211_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:28,666  【线程ID】： 87    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4513398_opening:211_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:28,666  【线程ID】： 37    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35971051_opening:211_打开 
+
+
+【日志时间】： 2019-11-26 18:26:28,668  【线程ID】： 38    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53855544_opening:212_打开 
+
+
+【日志时间】： 2019-11-26 18:26:29,642  【线程ID】： 88    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48622306_opening:213_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:29,644  【线程ID】： 84    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18302371_opening:213_打开 
+
+
+【日志时间】： 2019-11-26 18:26:29,653  【线程ID】： 39    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18275150_opening:214_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:29,655  【线程ID】： 85    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22357296_opening:214_打开 
+
+
+【日志时间】： 2019-11-26 18:26:30,644  【线程ID】： 89    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31808078_opening:215_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:30,645  【线程ID】： 39    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56618116_opening:215_打开 
+
+
+【日志时间】： 2019-11-26 18:26:30,657  【线程ID】： 40    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37373120_opening:216_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:30,658  【线程ID】： 86    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20545065_opening:216_打开 
+
+
+【日志时间】： 2019-11-26 18:26:31,649  【线程ID】： 41    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:66249304_opening:217_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:31,651  【线程ID】： 40    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59658320_opening:217_打开 
+
+
+【日志时间】： 2019-11-26 18:26:31,661  【线程ID】： 90    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41440460_opening:218_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:31,663  【线程ID】： 87    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49725963_opening:218_打开 
+
+
+【日志时间】： 2019-11-26 18:26:32,645  【线程ID】： 91    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:17172591_opening:219_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:32,646  【线程ID】： 41    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56060965_opening:219_打开 
+
+
+【日志时间】： 2019-11-26 18:26:32,660  【线程ID】： 42    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13886765_opening:220_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:32,662  【线程ID】： 88    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44076659_opening:220_打开 
+
+
+【日志时间】： 2019-11-26 18:26:33,644  【线程ID】： 92    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:27230451_opening:221_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:33,646  【线程ID】： 42    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53600207_opening:221_打开 
+
+
+【日志时间】： 2019-11-26 18:26:33,662  【线程ID】： 43    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18896939_opening:222_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:33,664  【线程ID】： 89    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7100707_opening:222_打开 
+
+
+【日志时间】： 2019-11-26 18:26:34,646  【线程ID】： 44    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24240361_opening:223_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:34,648  【线程ID】： 43    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56423985_opening:223_打开 
+
+
+【日志时间】： 2019-11-26 18:26:34,651  【线程ID】： 93    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25709460_opening:224_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:34,653  【线程ID】： 90    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26273733_opening:224_打开 
+
+
+【日志时间】： 2019-11-26 18:26:35,643  【线程ID】： 94    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:16759322_opening:225_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:35,645  【线程ID】： 44    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25429282_opening:225_打开 
+
+
+【日志时间】： 2019-11-26 18:26:35,648  【线程ID】： 45    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59807479_opening:226_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:35,649  【线程ID】： 91    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28453012_opening:226_打开 
+
+
+【日志时间】： 2019-11-26 18:26:36,662  【线程ID】： 46    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53575130_opening:227_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:36,664  【线程ID】： 45    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58530014_opening:227_打开 
+
+
+【日志时间】： 2019-11-26 18:26:36,671  【线程ID】： 95    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10804490_opening:228_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:36,673  【线程ID】： 92    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:23519799_opening:228_打开 
+
+
+【日志时间】： 2019-11-26 18:26:37,645  【线程ID】： 96    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25381398_opening:229_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:37,648  【线程ID】： 47    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26186489_opening:229_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:37,649  【线程ID】： 46    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59370117_opening:229_打开 
+
+
+【日志时间】： 2019-11-26 18:26:37,651  【线程ID】： 93    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28790286_opening:230_打开 
+
+
+【日志时间】： 2019-11-26 18:26:38,644  【线程ID】： 97    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39643309_opening:231_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:38,646  【线程ID】： 47    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20827694_opening:231_打开 
+
+
+【日志时间】： 2019-11-26 18:26:38,663  【线程ID】： 48    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45420983_opening:232_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:38,665  【线程ID】： 94    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:9959727_opening:232_打开 
+
+
+【日志时间】： 2019-11-26 18:26:39,651  【线程ID】： 98    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28949451_opening:233_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:39,653  【线程ID】： 48    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22454788_opening:233_打开 
+
+
+【日志时间】： 2019-11-26 18:26:39,669  【线程ID】： 49    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8666367_opening:234_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:39,670  【线程ID】： 95    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:66088270_opening:234_打开 
+
+
+【日志时间】： 2019-11-26 18:26:40,643  【线程ID】： 99    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52651241_opening:235_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:40,644  【线程ID】： 49    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64218358_opening:235_打开 
+
+
+【日志时间】： 2019-11-26 18:26:40,646  【线程ID】： 50    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58496644_opening:236_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:40,647  【线程ID】： 96    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8360929_opening:236_打开 
+
+
+【日志时间】： 2019-11-26 18:26:41,648  【线程ID】： 100    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56514860_opening:237_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:41,650  【线程ID】： 50    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:46434426_opening:237_打开 
+
+
+【日志时间】： 2019-11-26 18:26:41,676  【线程ID】： 51    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41361640_opening:238_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:41,678  【线程ID】： 97    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10564259_opening:238_打开 
+
+
+【日志时间】： 2019-11-26 18:26:42,644  【线程ID】： 101    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34399929_opening:239_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:42,645  【线程ID】： 51    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54648282_opening:239_打开 
+
+
+【日志时间】： 2019-11-26 18:26:42,648  【线程ID】： 52    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64195353_opening:240_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:42,649  【线程ID】： 98    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:17316309_opening:240_打开 
+
+
+【日志时间】： 2019-11-26 18:26:43,647  【线程ID】： 102    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58107198_opening:241_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:43,650  【线程ID】： 52    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:50510996_opening:241_打开 
+
+
+【日志时间】： 2019-11-26 18:26:43,653  【线程ID】： 53    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43556897_opening:242_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:43,655  【线程ID】： 99    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40964457_opening:242_打开 
+
+
+【日志时间】： 2019-11-26 18:26:44,653  【线程ID】： 103    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57225642_opening:243_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:44,654  【线程ID】： 53    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56605773_opening:243_打开 
+
+
+【日志时间】： 2019-11-26 18:26:44,669  【线程ID】： 54    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:1507228_opening:244_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:44,672  【线程ID】： 100    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4395872_opening:244_打开 
+
+
+【日志时间】： 2019-11-26 18:26:45,646  【线程ID】： 55    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25503784_opening:245_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:45,648  【线程ID】： 54    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64661966_opening:245_打开 
+
+
+【日志时间】： 2019-11-26 18:26:45,649  【线程ID】： 104    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8819221_opening:246_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:45,651  【线程ID】： 101    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43818640_opening:246_打开 
+
+
+【日志时间】： 2019-11-26 18:26:46,643  【线程ID】： 105    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60736472_opening:247_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:46,645  【线程ID】： 55    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34098069_opening:247_打开 
+
+
+【日志时间】： 2019-11-26 18:26:46,663  【线程ID】： 56    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:65515009_opening:248_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:46,665  【线程ID】： 102    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40408616_opening:248_打开 
+
+
+【日志时间】： 2019-11-26 18:26:47,652  【线程ID】： 106    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44380885_opening:249_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:47,653  【线程ID】： 56    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37660532_opening:249_打开 
+
+
+【日志时间】： 2019-11-26 18:26:47,664  【线程ID】： 57    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13813003_opening:250_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:47,665  【线程ID】： 103    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39446293_opening:250_打开 
+
+
+【日志时间】： 2019-11-26 18:26:48,664  【线程ID】： 107    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20291055_opening:251_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:48,666  【线程ID】： 57    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64313283_opening:251_打开 
+
+
+【日志时间】： 2019-11-26 18:26:49,655  【线程ID】： 58    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26541712_opening:252_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:49,656  【线程ID】： 104    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21904803_opening:252_打开 
+
+
+【日志时间】： 2019-11-26 18:26:50,644  【线程ID】： 59    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4747241_opening:253_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:50,646  【线程ID】： 58    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49261473_opening:253_打开 
+
+
+【日志时间】： 2019-11-26 18:26:51,654  【线程ID】： 60    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57595998_opening:254_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:51,655  【线程ID】： 59    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:3234494_opening:254_打开 
+
+
+【日志时间】： 2019-11-26 18:26:51,746  【线程ID】： 61    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12351855_opening:255_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:51,746  【线程ID】： 109    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:32737066_opening:255_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:51,746  【线程ID】： 108    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59353521_opening:255_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:51,747  【线程ID】： 110    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:62198255_opening:255_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:51,748  【线程ID】： 105    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43197063_opening:255_打开 
+
+
+【日志时间】： 2019-11-26 18:26:51,749  【线程ID】： 106    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:47591320_opening:256_打开 
+
+
+【日志时间】： 2019-11-26 18:26:51,749  【线程ID】： 107    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61874562_opening:256_打开 
+
+
+【日志时间】： 2019-11-26 18:26:51,750  【线程ID】： 109    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8640566_opening:258_打开 
+
+
+【日志时间】： 2019-11-26 18:26:52,149  【线程ID】： 5    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37489757_opening:259_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:52,151  【线程ID】： 112    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28021783_opening:259_打开 
+
+
+【日志时间】： 2019-11-26 18:26:53,149  【线程ID】： 4    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48209832_opening:260_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:53,150  【线程ID】： 5    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64828693_opening:260_打开 
+
+
+【日志时间】： 2019-11-26 18:26:53,153  【线程ID】： 6    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42194754_opening:261_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:53,154  【线程ID】： 60    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18158146_opening:261_打开 
+
+
+【日志时间】： 2019-11-26 18:26:54,162  【线程ID】： 7    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31364015_opening:262_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:54,164  【线程ID】： 4    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5773521_opening:262_打开 
+
+
+【日志时间】： 2019-11-26 18:26:54,175  【线程ID】： 12    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63403007_opening:263_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:54,185  【线程ID】： 6    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:15688314_opening:263_打开 
+
+
+【日志时间】： 2019-11-26 18:26:55,145  【线程ID】： 13    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:51781231_opening:264_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:55,147  【线程ID】： 7    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28379535_opening:264_打开 
+
+
+【日志时间】： 2019-11-26 18:26:55,148  【线程ID】： 14    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54718731_opening:265_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:55,150  【线程ID】： 12    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4916187_opening:265_打开 
+
+
+【日志时间】： 2019-11-26 18:26:56,156  【线程ID】： 16    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31071611_opening:266_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:56,158  【线程ID】： 13    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:65849037_opening:266_打开 
+
+
+【日志时间】： 2019-11-26 18:26:56,159  【线程ID】： 15    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:55467396_opening:266_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:56,163  【线程ID】： 16    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63566392_opening:267_打开 
+
+
+【日志时间】： 2019-11-26 18:26:57,147  【线程ID】： 62    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58006993_opening:268_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:57,149  【线程ID】： 14    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49508310_opening:268_打开 
+
+
+【日志时间】： 2019-11-26 18:26:57,154  【线程ID】： 63    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29126747_opening:269_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:57,156  【线程ID】： 15    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48611003_opening:269_打开 
+
+
+【日志时间】： 2019-11-26 18:26:58,157  【线程ID】： 17    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64538993_opening:270_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:58,159  【线程ID】： 61    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:55713081_opening:270_打开 
+
+
+【日志时间】： 2019-11-26 18:26:58,170  【线程ID】： 64    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30192928_opening:271_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:58,171  【线程ID】： 62    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:46037011_opening:271_打开 
+
+
+【日志时间】： 2019-11-26 18:26:59,146  【线程ID】： 18    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:65615241_opening:272_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:59,148  【线程ID】： 17    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13726014_opening:272_打开 
+
+
+【日志时间】： 2019-11-26 18:26:59,148  【线程ID】： 65    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42853371_opening:272_关闭 
+
+
+【日志时间】： 2019-11-26 18:26:59,150  【线程ID】： 63    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36490167_opening:273_打开 
+
+
+【日志时间】： 2019-11-26 18:27:00,146  【线程ID】： 19    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13273752_opening:274_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:00,147  【线程ID】： 18    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19208783_opening:274_打开 
+
+
+【日志时间】： 2019-11-26 18:27:00,168  【线程ID】： 66    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20643023_opening:275_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:00,169  【线程ID】： 64    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28617120_opening:275_打开 
+
+
+【日志时间】： 2019-11-26 18:27:01,151  【线程ID】： 20    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11373314_opening:276_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:01,153  【线程ID】： 19    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:1432091_opening:276_打开 
+
+
+【日志时间】： 2019-11-26 18:27:01,157  【线程ID】： 67    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25977518_opening:277_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:01,159  【线程ID】： 65    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:14745485_opening:277_打开 
+
+
+【日志时间】： 2019-11-26 18:27:02,148  【线程ID】： 21    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45214701_opening:278_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:02,149  【线程ID】： 20    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:27207609_opening:278_打开 
+
+
+【日志时间】： 2019-11-26 18:27:02,166  【线程ID】： 68    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6917174_opening:279_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:02,167  【线程ID】： 66    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:50046532_opening:279_打开 
+
+
+【日志时间】： 2019-11-26 18:27:03,158  【线程ID】： 22    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54752321_opening:280_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:03,160  【线程ID】： 21    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64685481_opening:280_打开 
+
+
+【日志时间】： 2019-11-26 18:27:03,173  【线程ID】： 67    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45431775_opening:281_打开 
+
+
+【日志时间】： 2019-11-26 18:27:03,171  【线程ID】： 69    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19272801_opening:280_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:04,146  【线程ID】： 23    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:47741942_opening:282_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:04,148  【线程ID】： 22    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58801125_opening:282_打开 
+
+
+【日志时间】： 2019-11-26 18:27:04,154  【线程ID】： 70    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43851770_opening:283_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:04,156  【线程ID】： 68    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37009196_opening:283_打开 
+
+
+【日志时间】： 2019-11-26 18:27:05,146  【线程ID】： 24    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:46251828_opening:284_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:05,148  【线程ID】： 23    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:456780_opening:284_打开 
+
+
+【日志时间】： 2019-11-26 18:27:05,149  【线程ID】： 71    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8212754_opening:285_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:05,151  【线程ID】： 69    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:46948000_opening:285_打开 
+
+
+【日志时间】： 2019-11-26 18:27:06,148  【线程ID】： 25    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45814213_opening:286_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:06,150  【线程ID】： 24    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40923024_opening:286_打开 
+
+
+【日志时间】： 2019-11-26 18:27:06,166  【线程ID】： 72    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10195602_opening:287_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:06,168  【线程ID】： 70    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:15506004_opening:287_打开 
+
+
+【日志时间】： 2019-11-26 18:27:07,166  【线程ID】： 26    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18393173_opening:288_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:07,167  【线程ID】： 25    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45763068_opening:288_打开 
+
+
+【日志时间】： 2019-11-26 18:27:07,169  【线程ID】： 73    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29528911_opening:289_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:07,170  【线程ID】： 71    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24675733_opening:289_打开 
+
+
+【日志时间】： 2019-11-26 18:27:08,156  【线程ID】： 27    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19674623_opening:290_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:08,158  【线程ID】： 26    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58698824_opening:290_打开 
+
+
+【日志时间】： 2019-11-26 18:27:08,165  【线程ID】： 74    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41271491_opening:291_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:08,167  【线程ID】： 72    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34521479_opening:291_打开 
+
+
+【日志时间】： 2019-11-26 18:27:09,171  【线程ID】： 28    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:65230257_opening:292_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:09,171  【线程ID】： 75    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40838839_opening:292_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:09,173  【线程ID】： 73    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45934418_opening:292_打开 
+
+
+【日志时间】： 2019-11-26 18:27:09,173  【线程ID】： 27    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8639934_opening:292_打开 
+
+
+【日志时间】： 2019-11-26 18:27:10,145  【线程ID】： 29    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:14577624_opening:294_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:10,146  【线程ID】： 28    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48638444_opening:294_打开 
+
+
+【日志时间】： 2019-11-26 18:27:10,166  【线程ID】： 76    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:42678819_opening:295_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:10,167  【线程ID】： 74    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7578979_opening:295_打开 
+
+
+【日志时间】： 2019-11-26 18:27:11,148  【线程ID】： 30    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:62117347_opening:296_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:11,150  【线程ID】： 29    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19062057_opening:296_打开 
+
+
+【日志时间】： 2019-11-26 18:27:11,157  【线程ID】： 77    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6681207_opening:297_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:11,159  【线程ID】： 75    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40706107_opening:297_打开 
+
+
+【日志时间】： 2019-11-26 18:27:11,659  【线程ID】： 78    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19307928_opening:298_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:11,661  【线程ID】： 30    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:47149097_opening:298_打开 
+
+
+【日志时间】： 2019-11-26 18:27:12,651  【线程ID】： 31    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:55375379_opening:299_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:12,653  【线程ID】： 76    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34417746_opening:299_打开 
+
+
+【日志时间】： 2019-11-26 18:27:12,670  【线程ID】： 32    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30057241_opening:300_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:12,671  【线程ID】： 77    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10843011_opening:300_打开 
+
+
+【日志时间】： 2019-11-26 18:27:13,653  【线程ID】： 33    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39994373_opening:301_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:13,655  【线程ID】： 31    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29884385_opening:301_打开 
+
+
+【日志时间】： 2019-11-26 18:27:13,678  【线程ID】： 79    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56934349_opening:302_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:13,680  【线程ID】： 32    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38190077_opening:302_打开 
+
+
+【日志时间】： 2019-11-26 18:27:14,647  【线程ID】： 34    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31697421_opening:303_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:14,648  【线程ID】： 80    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4358616_opening:303_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:14,649  【线程ID】： 33    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43411230_opening:303_打开 
+
+
+【日志时间】： 2019-11-26 18:27:14,650  【线程ID】： 78    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13706641_opening:304_打开 
+
+
+【日志时间】： 2019-11-26 18:27:15,645  【线程ID】： 10    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:32021128_opening:305_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:15,646  【线程ID】： 34    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40151350_opening:305_打开 
+
+
+【日志时间】： 2019-11-26 18:27:15,652  【线程ID】： 81    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48061575_opening:306_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:15,653  【线程ID】： 79    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22315056_opening:306_打开 
+
+
+【日志时间】： 2019-11-26 18:27:16,646  【线程ID】： 35    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41067717_opening:307_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:16,648  【线程ID】： 10    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31664632_opening:307_打开 
+
+
+【日志时间】： 2019-11-26 18:27:16,655  【线程ID】： 82    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2083306_opening:308_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:16,657  【线程ID】： 80    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7264299_opening:308_打开 
+
+
+【日志时间】： 2019-11-26 18:27:17,660  【线程ID】： 36    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34409196_opening:309_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:17,660  【线程ID】： 83    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:33749380_opening:309_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:17,661  【线程ID】： 35    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49239014_opening:309_打开 
+
+
+【日志时间】： 2019-11-26 18:27:17,661  【线程ID】： 81    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41675284_opening:309_打开 
+
+
+【日志时间】： 2019-11-26 18:27:18,669  【线程ID】： 37    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35971051_opening:311_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:18,670  【线程ID】： 38    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53855544_opening:311_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:18,671  【线程ID】： 36    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26696682_opening:311_打开 
+
+
+【日志时间】： 2019-11-26 18:27:18,672  【线程ID】： 82    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22652414_opening:312_打开 
+
+
+【日志时间】： 2019-11-26 18:27:19,644  【线程ID】： 84    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18302371_opening:313_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:19,646  【线程ID】： 37    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:643959_opening:313_打开 
+
+
+【日志时间】： 2019-11-26 18:27:19,655  【线程ID】： 85    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22357296_opening:314_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:19,657  【线程ID】： 38    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:66712533_opening:314_打开 
+
+
+【日志时间】： 2019-11-26 18:27:20,646  【线程ID】： 39    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56618116_opening:315_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:20,648  【线程ID】： 83    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:32143059_opening:315_打开 
+
+
+【日志时间】： 2019-11-26 18:27:20,660  【线程ID】： 86    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20545065_opening:316_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:20,661  【线程ID】： 84    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:67093172_opening:316_打开 
+
+
+【日志时间】： 2019-11-26 18:27:21,654  【线程ID】： 40    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59658320_opening:317_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:21,656  【线程ID】： 39    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:55820076_opening:317_打开 
+
+
+【日志时间】： 2019-11-26 18:27:21,665  【线程ID】： 87    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49725963_opening:318_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:21,667  【线程ID】： 85    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:62856931_opening:318_打开 
+
+
+【日志时间】： 2019-11-26 18:27:22,649  【线程ID】： 41    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56060965_opening:319_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:22,650  【线程ID】： 40    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45728720_opening:319_打开 
+
+
+【日志时间】： 2019-11-26 18:27:22,664  【线程ID】： 88    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44076659_opening:320_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:22,665  【线程ID】： 86    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56688330_opening:320_打开 
+
+
+【日志时间】： 2019-11-26 18:27:23,649  【线程ID】： 42    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53600207_opening:321_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:23,651  【线程ID】： 41    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11953297_opening:321_打开 
+
+
+【日志时间】： 2019-11-26 18:27:23,666  【线程ID】： 89    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7100707_opening:322_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:23,668  【线程ID】： 87    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37851782_opening:322_打开 
+
+
+【日志时间】： 2019-11-26 18:27:24,650  【线程ID】： 43    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56423985_opening:323_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:24,652  【线程ID】： 42    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11812706_opening:323_打开 
+
+
+【日志时间】： 2019-11-26 18:27:24,655  【线程ID】： 90    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26273733_opening:324_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:24,656  【线程ID】： 88    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31893131_opening:324_打开 
+
+
+【日志时间】： 2019-11-26 18:27:25,647  【线程ID】： 44    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:25429282_opening:325_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:25,649  【线程ID】： 43    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54933638_opening:325_打开 
+
+
+【日志时间】： 2019-11-26 18:27:25,651  【线程ID】： 91    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28453012_opening:326_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:25,653  【线程ID】： 89    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13218513_opening:326_打开 
+
+
+【日志时间】： 2019-11-26 18:27:26,666  【线程ID】： 45    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58530014_opening:327_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:26,668  【线程ID】： 44    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39297439_opening:327_打开 
+
+
+【日志时间】： 2019-11-26 18:27:26,675  【线程ID】： 92    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:23519799_opening:328_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:26,677  【线程ID】： 90    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60454164_opening:328_打开 
+
+
+【日志时间】： 2019-11-26 18:27:27,651  【线程ID】： 46    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59370117_opening:329_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:27,652  【线程ID】： 93    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28790286_opening:329_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:27,652  【线程ID】： 45    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:23525561_opening:329_打开 
+
+
+【日志时间】： 2019-11-26 18:27:27,653  【线程ID】： 91    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30178984_opening:330_打开 
+
+
+【日志时间】： 2019-11-26 18:27:28,647  【线程ID】： 47    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20827694_opening:331_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:28,649  【线程ID】： 46    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13771952_opening:331_打开 
+
+
+【日志时间】： 2019-11-26 18:27:28,666  【线程ID】： 94    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:9959727_opening:332_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:28,668  【线程ID】： 92    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48733010_opening:332_打开 
+
+
+【日志时间】： 2019-11-26 18:27:29,655  【线程ID】： 48    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22454788_opening:333_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:29,656  【线程ID】： 47    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60322086_opening:333_打开 
+
+
+【日志时间】： 2019-11-26 18:27:29,672  【线程ID】： 95    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:66088270_opening:334_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:29,673  【线程ID】： 93    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49411006_opening:334_打开 
+
+
+【日志时间】： 2019-11-26 18:27:30,645  【线程ID】： 49    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64218358_opening:335_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:30,647  【线程ID】： 48    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61517128_opening:335_打开 
+
+
+【日志时间】： 2019-11-26 18:27:30,648  【线程ID】： 96    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8360929_opening:336_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:30,650  【线程ID】： 94    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36559614_opening:336_打开 
+
+
+【日志时间】： 2019-11-26 18:27:31,651  【线程ID】： 50    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:46434426_opening:337_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:31,652  【线程ID】： 49    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22988189_opening:337_打开 
+
+
+【日志时间】： 2019-11-26 18:27:31,679  【线程ID】： 97    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10564259_opening:338_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:31,680  【线程ID】： 95    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:9724824_opening:338_打开 
+
+
+【日志时间】： 2019-11-26 18:27:32,647  【线程ID】： 51    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54648282_opening:339_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:32,649  【线程ID】： 50    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56707630_opening:339_打开 
+
+
+【日志时间】： 2019-11-26 18:27:32,651  【线程ID】： 98    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:17316309_opening:340_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:32,653  【线程ID】： 96    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31176103_opening:340_打开 
+
+
+【日志时间】： 2019-11-26 18:27:33,652  【线程ID】： 52    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:50510996_opening:341_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:33,654  【线程ID】： 51    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12984123_opening:341_打开 
+
+
+【日志时间】： 2019-11-26 18:27:33,657  【线程ID】： 99    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40964457_opening:342_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:33,658  【线程ID】： 97    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58113162_opening:342_打开 
+
+
+【日志时间】： 2019-11-26 18:27:34,657  【线程ID】： 53    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56605773_opening:343_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:34,659  【线程ID】： 52    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21424057_opening:343_打开 
+
+
+【日志时间】： 2019-11-26 18:27:34,674  【线程ID】： 100    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4395872_opening:344_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:34,676  【线程ID】： 98    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29470631_opening:344_打开 
+
+
+【日志时间】： 2019-11-26 18:27:35,650  【线程ID】： 54    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64661966_opening:345_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:35,651  【线程ID】： 53    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2530798_opening:345_打开 
+
+
+【日志时间】： 2019-11-26 18:27:35,653  【线程ID】： 101    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43818640_opening:346_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:35,655  【线程ID】： 99    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52184760_opening:346_打开 
+
+
+【日志时间】： 2019-11-26 18:27:36,647  【线程ID】： 55    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34098069_opening:347_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:36,649  【线程ID】： 54    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63215438_opening:347_打开 
+
+
+【日志时间】： 2019-11-26 18:27:36,668  【线程ID】： 102    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40408616_opening:348_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:36,670  【线程ID】： 100    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35497771_opening:348_打开 
+
+
+【日志时间】： 2019-11-26 18:27:37,654  【线程ID】： 56    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37660532_opening:349_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:37,656  【线程ID】： 55    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21655029_opening:349_打开 
+
+
+【日志时间】： 2019-11-26 18:27:37,666  【线程ID】： 103    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39446293_opening:350_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:37,668  【线程ID】： 101    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:3757334_opening:350_打开 
+
+
+【日志时间】： 2019-11-26 18:27:38,669  【线程ID】： 57    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64313283_opening:351_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:38,670  【线程ID】： 56    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34327268_opening:351_打开 
+
+
+【日志时间】： 2019-11-26 18:27:39,659  【线程ID】： 104    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21904803_opening:352_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:39,661  【线程ID】： 57    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19718492_opening:352_打开 
+
+
+【日志时间】： 2019-11-26 18:27:40,648  【线程ID】： 58    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49261473_opening:353_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:40,650  【线程ID】： 102    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45760303_opening:353_打开 
+
+
+【日志时间】： 2019-11-26 18:27:41,658  【线程ID】： 59    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:3234494_opening:354_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:41,660  【线程ID】： 58    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:65135743_opening:354_打开 
+
+
+【日志时间】： 2019-11-26 18:27:41,750  【线程ID】： 105    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43197063_opening:355_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:41,752  【线程ID】： 103    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7432807_opening:355_打开 
+
+
+【日志时间】： 2019-11-26 18:27:41,751  【线程ID】： 106    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:47591320_opening:355_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:41,752  【线程ID】： 104    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28008063_opening:355_打开 
+
+
+【日志时间】： 2019-11-26 18:27:41,753  【线程ID】： 108    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20791554_opening:355_打开 
+
+
+【日志时间】： 2019-11-26 18:27:41,751  【线程ID】： 107    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61874562_opening:355_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:41,753  【线程ID】： 109    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8640566_opening:355_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:41,755  【线程ID】： 110    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:47285499_opening:356_打开 
+
+
+【日志时间】： 2019-11-26 18:27:42,153  【线程ID】： 112    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28021783_opening:359_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:42,155  【线程ID】： 112    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10292558_opening:359_打开 
+
+
+【日志时间】： 2019-11-26 18:27:43,152  【线程ID】： 5    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64828693_opening:360_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:43,154  【线程ID】： 59    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41315715_opening:360_打开 
+
+
+【日志时间】： 2019-11-26 18:27:43,156  【线程ID】： 60    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18158146_opening:361_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:43,158  【线程ID】： 105    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38031936_opening:361_打开 
+
+
+【日志时间】： 2019-11-26 18:27:44,166  【线程ID】： 4    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5773521_opening:362_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:44,167  【线程ID】： 5    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10104599_opening:362_打开 
+
+
+【日志时间】： 2019-11-26 18:27:44,190  【线程ID】： 6    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:15688314_opening:363_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:44,199  【线程ID】： 4    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54135081_opening:363_打开 
+
+
+【日志时间】： 2019-11-26 18:27:45,148  【线程ID】： 7    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28379535_opening:364_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:45,149  【线程ID】： 6    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52307948_opening:364_打开 
+
+
+【日志时间】： 2019-11-26 18:27:45,151  【线程ID】： 12    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4916187_opening:365_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:45,152  【线程ID】： 60    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19560887_opening:365_打开 
+
+
+【日志时间】： 2019-11-26 18:27:46,164  【线程ID】： 13    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:65849037_opening:366_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:46,166  【线程ID】： 7    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64109423_opening:366_打开 
+
+
+【日志时间】： 2019-11-26 18:27:46,166  【线程ID】： 16    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63566392_opening:366_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:46,168  【线程ID】： 12    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59231349_opening:367_打开 
+
+
+【日志时间】： 2019-11-26 18:27:47,153  【线程ID】： 14    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49508310_opening:368_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:47,154  【线程ID】： 13    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:62407605_opening:368_打开 
+
+
+【日志时间】： 2019-11-26 18:27:47,159  【线程ID】： 15    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48611003_opening:369_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:47,160  【线程ID】： 16    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24004906_opening:369_打开 
+
+
+【日志时间】： 2019-11-26 18:27:48,161  【线程ID】： 61    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:55713081_opening:370_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:48,164  【线程ID】： 14    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:108048_opening:370_打开 
+
+
+【日志时间】： 2019-11-26 18:27:48,173  【线程ID】： 62    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:46037011_opening:371_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:48,175  【线程ID】： 15    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5598643_opening:371_打开 
+
+
+【日志时间】： 2019-11-26 18:27:49,151  【线程ID】： 17    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13726014_opening:372_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:49,152  【线程ID】： 61    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48131223_opening:372_打开 
+
+
+【日志时间】： 2019-11-26 18:27:49,153  【线程ID】： 63    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36490167_opening:372_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:49,154  【线程ID】： 62    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37530417_opening:373_打开 
+
+
+【日志时间】： 2019-11-26 18:27:50,149  【线程ID】： 18    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19208783_opening:374_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:50,152  【线程ID】： 17    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:62474978_opening:374_打开 
+
+
+【日志时间】： 2019-11-26 18:27:50,171  【线程ID】： 64    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28617120_opening:375_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:50,173  【线程ID】： 63    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49840919_opening:375_打开 
+
+
+【日志时间】： 2019-11-26 18:27:51,156  【线程ID】： 19    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:1432091_opening:376_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:51,157  【线程ID】： 18    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2681320_opening:376_打开 
+
+
+【日志时间】： 2019-11-26 18:27:51,161  【线程ID】： 65    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:14745485_opening:377_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:51,163  【线程ID】： 64    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19984420_opening:377_打开 
+
+
+【日志时间】： 2019-11-26 18:27:52,151  【线程ID】： 20    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:27207609_opening:378_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:52,152  【线程ID】： 19    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48890572_opening:378_打开 
+
+
+【日志时间】： 2019-11-26 18:27:52,169  【线程ID】： 66    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:50046532_opening:379_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:52,171  【线程ID】： 65    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:15239504_opening:379_打开 
+
+
+【日志时间】： 2019-11-26 18:27:53,173  【线程ID】： 21    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64685481_opening:380_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:53,174  【线程ID】： 67    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45431775_opening:380_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:53,175  【线程ID】： 20    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30945470_opening:380_打开 
+
+
+【日志时间】： 2019-11-26 18:27:53,176  【线程ID】： 21    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52754382_opening:381_打开 
+
+
+【日志时间】： 2019-11-26 18:27:54,149  【线程ID】： 22    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58801125_opening:382_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:54,150  【线程ID】： 66    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40744404_opening:382_打开 
+
+
+【日志时间】： 2019-11-26 18:27:54,157  【线程ID】： 68    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37009196_opening:383_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:54,158  【线程ID】： 67    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54843616_opening:383_打开 
+
+
+【日志时间】： 2019-11-26 18:27:55,151  【线程ID】： 23    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:456780_opening:384_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:55,154  【线程ID】： 22    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:32686703_opening:384_打开 
+
+
+【日志时间】： 2019-11-26 18:27:55,154  【线程ID】： 69    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:46948000_opening:385_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:55,156  【线程ID】： 69    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39050805_opening:385_打开 
+
+
+【日志时间】： 2019-11-26 18:27:56,151  【线程ID】： 24    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40923024_opening:386_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:56,152  【线程ID】： 23    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44307732_opening:386_打开 
+
+
+【日志时间】： 2019-11-26 18:27:56,170  【线程ID】： 70    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:15506004_opening:387_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:56,179  【线程ID】： 24    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39584784_opening:387_打开 
+
+
+【日志时间】： 2019-11-26 18:27:57,170  【线程ID】： 25    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45763068_opening:388_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:57,172  【线程ID】： 68    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:51000089_opening:388_打开 
+
+
+【日志时间】： 2019-11-26 18:27:57,172  【线程ID】： 71    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24675733_opening:389_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:57,174  【线程ID】： 70    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57135064_opening:389_打开 
+
+
+【日志时间】： 2019-11-26 18:27:58,159  【线程ID】： 26    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58698824_opening:390_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:58,161  【线程ID】： 25    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40392858_opening:390_打开 
+
+
+【日志时间】： 2019-11-26 18:27:58,168  【线程ID】： 72    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34521479_opening:391_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:58,170  【线程ID】： 71    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:17747469_opening:391_打开 
+
+
+【日志时间】： 2019-11-26 18:27:59,175  【线程ID】： 73    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45934418_opening:392_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:59,176  【线程ID】： 27    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8639934_opening:392_关闭 
+
+
+【日志时间】： 2019-11-26 18:27:59,177  【线程ID】： 26    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22829829_opening:392_打开 
+
+
+【日志时间】： 2019-11-26 18:27:59,177  【线程ID】： 72    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48464007_opening:392_打开 
+
+
+【日志时间】： 2019-11-26 18:28:00,151  【线程ID】： 28    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48638444_opening:394_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:00,162  【线程ID】： 27    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36788523_opening:394_打开 
+
+
+【日志时间】： 2019-11-26 18:28:00,168  【线程ID】： 74    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7578979_opening:395_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:00,170  【线程ID】： 73    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19422967_opening:395_打开 
+
+
+【日志时间】： 2019-11-26 18:28:01,159  【线程ID】： 29    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19062057_opening:396_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:01,176  【线程ID】： 28    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53553410_opening:396_打开 
+
+
+【日志时间】： 2019-11-26 18:28:01,178  【线程ID】： 74    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:66680237_opening:397_打开 
+
+
+【日志时间】： 2019-11-26 18:28:01,176  【线程ID】： 75    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40706107_opening:396_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:01,662  【线程ID】： 30    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:47149097_opening:398_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:01,664  【线程ID】： 29    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24807524_opening:398_打开 
+
+
+【日志时间】： 2019-11-26 18:28:02,655  【线程ID】： 76    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34417746_opening:399_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:02,656  【线程ID】： 30    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:55165962_opening:399_打开 
+
+
+【日志时间】： 2019-11-26 18:28:02,673  【线程ID】： 77    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10843011_opening:400_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:02,674  【线程ID】： 75    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:222928_opening:400_打开 
+
+
+【日志时间】： 2019-11-26 18:28:03,657  【线程ID】： 31    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29884385_opening:401_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:03,659  【线程ID】： 76    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31883103_opening:401_打开 
+
+
+【日志时间】： 2019-11-26 18:28:03,682  【线程ID】： 32    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38190077_opening:402_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:03,684  【线程ID】： 77    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38419526_opening:402_打开 
+
+
+【日志时间】： 2019-11-26 18:28:04,650  【线程ID】： 33    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43411230_opening:403_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:04,651  【线程ID】： 78    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13706641_opening:403_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:04,651  【线程ID】： 31    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29880497_opening:403_打开 
+
+
+【日志时间】： 2019-11-26 18:28:04,652  【线程ID】： 32    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:46115443_opening:404_打开 
+
+
+【日志时间】： 2019-11-26 18:28:05,647  【线程ID】： 34    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40151350_opening:405_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:05,649  【线程ID】： 33    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41758542_opening:405_打开 
+
+
+【日志时间】： 2019-11-26 18:28:05,654  【线程ID】： 79    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22315056_opening:406_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:05,656  【线程ID】： 78    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:50037955_opening:406_打开 
+
+
+【日志时间】： 2019-11-26 18:28:06,651  【线程ID】： 10    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31664632_opening:407_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:06,652  【线程ID】： 34    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24195807_opening:407_打开 
+
+
+【日志时间】： 2019-11-26 18:28:06,659  【线程ID】： 80    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7264299_opening:408_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:06,661  【线程ID】： 79    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49593432_opening:408_打开 
+
+
+【日志时间】： 2019-11-26 18:28:07,662  【线程ID】： 35    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49239014_opening:409_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:07,663  【线程ID】： 81    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41675284_opening:409_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:07,664  【线程ID】： 10    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:15622304_opening:409_打开 
+
+
+【日志时间】： 2019-11-26 18:28:07,664  【线程ID】： 80    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12087183_opening:410_打开 
+
+
+【日志时间】： 2019-11-26 18:28:08,671  【线程ID】： 36    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26696682_opening:411_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:08,672  【线程ID】： 82    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22652414_opening:411_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:08,673  【线程ID】： 35    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26117529_opening:411_打开 
+
+
+【日志时间】： 2019-11-26 18:28:08,674  【线程ID】： 81    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20960210_opening:411_打开 
+
+
+【日志时间】： 2019-11-26 18:28:09,647  【线程ID】： 37    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:643959_opening:413_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:09,649  【线程ID】： 36    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18382646_opening:413_打开 
+
+
+【日志时间】： 2019-11-26 18:28:09,659  【线程ID】： 38    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:66712533_opening:414_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:09,660  【线程ID】： 82    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:27061130_opening:414_打开 
+
+
+【日志时间】： 2019-11-26 18:28:10,649  【线程ID】： 83    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:32143059_opening:415_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:10,651  【线程ID】： 37    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31416984_opening:415_打开 
+
+
+【日志时间】： 2019-11-26 18:28:10,663  【线程ID】： 84    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:67093172_opening:416_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:10,665  【线程ID】： 38    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4884916_opening:416_打开 
+
+
+【日志时间】： 2019-11-26 18:28:11,659  【线程ID】： 39    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:55820076_opening:417_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:11,660  【线程ID】： 83    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:27684052_opening:417_打开 
+
+
+【日志时间】： 2019-11-26 18:28:11,670  【线程ID】： 85    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:62856931_opening:418_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:11,671  【线程ID】： 84    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61757961_opening:418_打开 
+
+
+【日志时间】： 2019-11-26 18:28:12,652  【线程ID】： 40    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45728720_opening:419_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:12,654  【线程ID】： 39    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61553366_opening:419_打开 
+
+
+【日志时间】： 2019-11-26 18:28:12,667  【线程ID】： 86    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56688330_opening:420_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:12,669  【线程ID】： 85    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:9478220_opening:420_打开 
+
+
+【日志时间】： 2019-11-26 18:28:13,652  【线程ID】： 41    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11953297_opening:421_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:13,654  【线程ID】： 40    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29046109_opening:421_打开 
+
+
+【日志时间】： 2019-11-26 18:28:13,669  【线程ID】： 87    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37851782_opening:422_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:13,671  【线程ID】： 87    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7015286_opening:422_打开 
+
+
+【日志时间】： 2019-11-26 18:28:14,654  【线程ID】： 42    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11812706_opening:423_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:14,656  【线程ID】： 41    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6841439_opening:423_打开 
+
+
+【日志时间】： 2019-11-26 18:28:14,659  【线程ID】： 88    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31893131_opening:424_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:14,661  【线程ID】： 86    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54221170_opening:424_打开 
+
+
+【日志时间】： 2019-11-26 18:28:15,651  【线程ID】： 43    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54933638_opening:425_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:15,653  【线程ID】： 42    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30332228_opening:425_打开 
+
+
+【日志时间】： 2019-11-26 18:28:15,655  【线程ID】： 89    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13218513_opening:426_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:15,657  【线程ID】： 88    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44449979_opening:426_打开 
+
+
+【日志时间】： 2019-11-26 18:28:16,671  【线程ID】： 44    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39297439_opening:427_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:16,672  【线程ID】： 43    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59577678_opening:427_打开 
+
+
+【日志时间】： 2019-11-26 18:28:16,680  【线程ID】： 90    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60454164_opening:428_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:16,681  【线程ID】： 89    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7154018_opening:428_打开 
+
+
+【日志时间】： 2019-11-26 18:28:17,653  【线程ID】： 45    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:23525561_opening:429_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:17,654  【线程ID】： 91    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30178984_opening:429_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:17,655  【线程ID】： 44    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:66405903_opening:429_打开 
+
+
+【日志时间】： 2019-11-26 18:28:17,656  【线程ID】： 90    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54062827_opening:430_打开 
+
+
+【日志时间】： 2019-11-26 18:28:18,652  【线程ID】： 46    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13771952_opening:431_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:18,653  【线程ID】： 45    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57261520_opening:431_打开 
+
+
+【日志时间】： 2019-11-26 18:28:18,670  【线程ID】： 92    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48733010_opening:432_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:18,672  【线程ID】： 91    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63082605_opening:432_打开 
+
+
+【日志时间】： 2019-11-26 18:28:19,658  【线程ID】： 47    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60322086_opening:433_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:19,660  【线程ID】： 46    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52762096_opening:433_打开 
+
+
+【日志时间】： 2019-11-26 18:28:19,674  【线程ID】： 93    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49411006_opening:434_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:19,677  【线程ID】： 92    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58019479_opening:434_打开 
+
+
+【日志时间】： 2019-11-26 18:28:20,648  【线程ID】： 48    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61517128_opening:435_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:20,649  【线程ID】： 47    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:32329249_opening:435_打开 
+
+
+【日志时间】： 2019-11-26 18:28:20,651  【线程ID】： 94    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36559614_opening:436_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:20,653  【线程ID】： 93    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38794181_opening:436_打开 
+
+
+【日志时间】： 2019-11-26 18:28:21,653  【线程ID】： 49    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22988189_opening:437_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:21,655  【线程ID】： 48    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39278763_opening:437_打开 
+
+
+【日志时间】： 2019-11-26 18:28:21,681  【线程ID】： 95    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:9724824_opening:438_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:21,683  【线程ID】： 94    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37678437_opening:438_打开 
+
+
+【日志时间】： 2019-11-26 18:28:22,650  【线程ID】： 50    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56707630_opening:439_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:22,654  【线程ID】： 96    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31176103_opening:439_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:22,654  【线程ID】： 49    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57223309_opening:439_打开 
+
+
+【日志时间】： 2019-11-26 18:28:22,655  【线程ID】： 95    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53070056_opening:440_打开 
+
+
+【日志时间】： 2019-11-26 18:28:23,657  【线程ID】： 51    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12984123_opening:441_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:23,659  【线程ID】： 50    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:15230870_opening:441_打开 
+
+
+【日志时间】： 2019-11-26 18:28:23,661  【线程ID】： 97    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58113162_opening:442_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:23,662  【线程ID】： 96    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:47908747_opening:442_打开 
+
+
+【日志时间】： 2019-11-26 18:28:24,661  【线程ID】： 52    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21424057_opening:443_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:24,663  【线程ID】： 51    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29327215_opening:443_打开 
+
+
+【日志时间】： 2019-11-26 18:28:24,678  【线程ID】： 98    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29470631_opening:444_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:24,680  【线程ID】： 97    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21459237_opening:444_打开 
+
+
+【日志时间】： 2019-11-26 18:28:25,655  【线程ID】： 53    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2530798_opening:445_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:25,656  【线程ID】： 52    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:67030419_opening:445_打开 
+
+
+【日志时间】： 2019-11-26 18:28:25,657  【线程ID】： 99    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52184760_opening:446_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:25,658  【线程ID】： 98    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22898512_opening:446_打开 
+
+
+【日志时间】： 2019-11-26 18:28:26,651  【线程ID】： 54    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63215438_opening:447_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:26,653  【线程ID】： 53    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12312372_opening:447_打开 
+
+
+【日志时间】： 2019-11-26 18:28:26,672  【线程ID】： 100    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35497771_opening:448_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:26,674  【线程ID】： 99    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:55232281_opening:448_打开 
+
+
+【日志时间】： 2019-11-26 18:28:27,658  【线程ID】： 55    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21655029_opening:449_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:27,660  【线程ID】： 54    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11968279_opening:449_打开 
+
+
+【日志时间】： 2019-11-26 18:28:27,670  【线程ID】： 101    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:3757334_opening:450_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:27,672  【线程ID】： 100    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:15300745_opening:450_打开 
+
+
+【日志时间】： 2019-11-26 18:28:28,672  【线程ID】： 56    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34327268_opening:451_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:28,674  【线程ID】： 55    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40543320_opening:451_打开 
+
+
+【日志时间】： 2019-11-26 18:28:29,663  【线程ID】： 57    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19718492_opening:452_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:29,665  【线程ID】： 56    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:9207334_opening:452_打开 
+
+
+【日志时间】： 2019-11-26 18:28:30,653  【线程ID】： 102    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45760303_opening:453_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:30,654  【线程ID】： 57    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31006055_opening:453_打开 
+
+
+【日志时间】： 2019-11-26 18:28:31,662  【线程ID】： 58    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:65135743_opening:454_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:31,664  【线程ID】： 101    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60354610_opening:454_打开 
+
+
+【日志时间】： 2019-11-26 18:28:31,754  【线程ID】： 103    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7432807_opening:455_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:31,756  【线程ID】： 102    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41414684_opening:455_打开 
+
+
+【日志时间】： 2019-11-26 18:28:31,758  【线程ID】： 104    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28008063_opening:456_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:31,759  【线程ID】： 108    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20791554_opening:456_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:31,760  【线程ID】： 106    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:51669718_opening:456_打开 
+
+
+【日志时间】： 2019-11-26 18:28:31,760  【线程ID】： 107    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30928332_opening:457_打开 
+
+
+【日志时间】： 2019-11-26 18:28:31,762  【线程ID】： 110    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:47285499_opening:458_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:31,764  【线程ID】： 109    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30165869_opening:458_打开 
+
+
+【日志时间】： 2019-11-26 18:28:32,158  【线程ID】： 112    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10292558_opening:459_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:32,161  【线程ID】： 111    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:23313708_opening:459_打开 
+
+
+【日志时间】： 2019-11-26 18:28:33,154  【线程ID】： 59    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41315715_opening:460_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:33,156  【线程ID】： 58    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2132563_opening:460_打开 
+
+
+【日志时间】： 2019-11-26 18:28:33,158  【线程ID】： 105    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38031936_opening:461_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:33,160  【线程ID】： 103    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12472879_opening:461_打开 
+
+
+【日志时间】： 2019-11-26 18:28:34,169  【线程ID】： 5    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:10104599_opening:462_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:34,171  【线程ID】： 59    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24975612_opening:462_打开 
+
+
+【日志时间】： 2019-11-26 18:28:34,207  【线程ID】： 4    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54135081_opening:463_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:34,217  【线程ID】： 5    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:51288387_opening:463_打开 
+
+
+【日志时间】： 2019-11-26 18:28:35,150  【线程ID】： 6    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52307948_opening:464_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:35,152  【线程ID】： 4    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63094882_opening:464_打开 
+
+
+【日志时间】： 2019-11-26 18:28:35,153  【线程ID】： 60    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19560887_opening:465_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:35,155  【线程ID】： 104    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:47343487_opening:465_打开 
+
+
+【日志时间】： 2019-11-26 18:28:36,168  【线程ID】： 7    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64109423_opening:466_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:36,169  【线程ID】： 6    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40535505_opening:466_打开 
+
+
+【日志时间】： 2019-11-26 18:28:36,170  【线程ID】： 12    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59231349_opening:466_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:36,172  【线程ID】： 60    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:27688131_opening:467_打开 
+
+
+【日志时间】： 2019-11-26 18:28:37,157  【线程ID】： 13    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:62407605_opening:468_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:37,159  【线程ID】： 7    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35236192_opening:468_打开 
+
+
+【日志时间】： 2019-11-26 18:28:37,162  【线程ID】： 16    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24004906_opening:469_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:37,164  【线程ID】： 12    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52253787_opening:469_打开 
+
+
+【日志时间】： 2019-11-26 18:28:38,166  【线程ID】： 14    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:108048_opening:470_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:38,168  【线程ID】： 13    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:463695_opening:470_打开 
+
+
+【日志时间】： 2019-11-26 18:28:38,177  【线程ID】： 15    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5598643_opening:471_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:38,179  【线程ID】： 16    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45725801_opening:471_打开 
+
+
+【日志时间】： 2019-11-26 18:28:39,155  【线程ID】： 61    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48131223_opening:472_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:39,166  【线程ID】： 62    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37530417_opening:472_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:39,161  【线程ID】： 14    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6590935_opening:472_打开 
+
+
+【日志时间】： 2019-11-26 18:28:39,178  【线程ID】： 15    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28367532_opening:472_打开 
+
+
+【日志时间】： 2019-11-26 18:28:40,162  【线程ID】： 17    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:62474978_opening:474_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:40,164  【线程ID】： 17    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64379541_opening:474_打开 
+
+
+【日志时间】： 2019-11-26 18:28:40,267  【线程ID】： 63    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49840919_opening:475_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:40,272  【线程ID】： 61    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39296964_opening:475_打开 
+
+
+【日志时间】： 2019-11-26 18:28:41,160  【线程ID】： 18    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2681320_opening:476_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:41,162  【线程ID】： 62    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:32845866_opening:476_打开 
+
+
+【日志时间】： 2019-11-26 18:28:41,167  【线程ID】： 64    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19984420_opening:477_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:41,170  【线程ID】： 64    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48551116_opening:477_打开 
+
+
+【日志时间】： 2019-11-26 18:28:42,154  【线程ID】： 19    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48890572_opening:478_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:42,156  【线程ID】： 18    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5135072_opening:478_打开 
+
+
+【日志时间】： 2019-11-26 18:28:42,173  【线程ID】： 65    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:15239504_opening:479_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:42,176  【线程ID】： 63    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58432123_opening:479_打开 
+
+
+【日志时间】： 2019-11-26 18:28:43,177  【线程ID】： 20    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30945470_opening:480_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:43,178  【线程ID】： 21    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52754382_opening:480_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:43,178  【线程ID】： 19    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:713423_opening:480_打开 
+
+
+【日志时间】： 2019-11-26 18:28:43,180  【线程ID】： 65    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11936749_opening:481_打开 
+
+
+【日志时间】： 2019-11-26 18:28:44,152  【线程ID】： 66    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40744404_opening:482_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:44,154  【线程ID】： 20    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13119256_opening:482_打开 
+
+
+【日志时间】： 2019-11-26 18:28:44,160  【线程ID】： 67    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54843616_opening:483_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:44,162  【线程ID】： 21    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64628464_opening:483_打开 
+
+
+【日志时间】： 2019-11-26 18:28:45,156  【线程ID】： 22    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:32686703_opening:484_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:45,157  【线程ID】： 66    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21500028_opening:484_打开 
+
+
+【日志时间】： 2019-11-26 18:28:45,159  【线程ID】： 69    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39050805_opening:485_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:45,160  【线程ID】： 67    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7030517_opening:485_打开 
+
+
+【日志时间】： 2019-11-26 18:28:46,154  【线程ID】： 23    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44307732_opening:486_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:46,156  【线程ID】： 22    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19964545_opening:486_打开 
+
+
+【日志时间】： 2019-11-26 18:28:46,181  【线程ID】： 24    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39584784_opening:487_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:46,182  【线程ID】： 69    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34531456_opening:487_打开 
+
+
+【日志时间】： 2019-11-26 18:28:47,176  【线程ID】： 70    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57135064_opening:488_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:47,176  【线程ID】： 68    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:51000089_opening:488_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:47,190  【线程ID】： 24    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38640280_opening:488_打开 
+
+
+【日志时间】： 2019-11-26 18:28:47,190  【线程ID】： 23    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2882782_opening:488_打开 
+
+
+【日志时间】： 2019-11-26 18:28:48,169  【线程ID】： 25    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40392858_opening:490_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:48,171  【线程ID】： 68    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34163360_opening:490_打开 
+
+
+【日志时间】： 2019-11-26 18:28:48,179  【线程ID】： 71    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:17747469_opening:490_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:48,180  【线程ID】： 70    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43148330_opening:491_打开 
+
+
+【日志时间】： 2019-11-26 18:28:49,178  【线程ID】： 72    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48464007_opening:492_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:49,178  【线程ID】： 26    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22829829_opening:492_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:49,180  【线程ID】： 71    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28745098_opening:492_打开 
+
+
+【日志时间】： 2019-11-26 18:28:49,180  【线程ID】： 25    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13391695_opening:492_打开 
+
+
+【日志时间】： 2019-11-26 18:28:50,165  【线程ID】： 27    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36788523_opening:494_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:50,166  【线程ID】： 26    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5423467_opening:494_打开 
+
+
+【日志时间】： 2019-11-26 18:28:50,172  【线程ID】： 73    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19422967_opening:495_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:50,173  【线程ID】： 72    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39984030_opening:495_打开 
+
+
+【日志时间】： 2019-11-26 18:28:51,179  【线程ID】： 28    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53553410_opening:496_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:51,180  【线程ID】： 74    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:66680237_opening:496_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:51,181  【线程ID】： 27    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63462474_opening:496_打开 
+
+
+【日志时间】： 2019-11-26 18:28:51,181  【线程ID】： 73    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64367902_opening:497_打开 
+
+
+【日志时间】： 2019-11-26 18:28:51,666  【线程ID】： 29    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24807524_opening:498_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:51,668  【线程ID】： 28    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24624665_opening:498_打开 
+
+
+【日志时间】： 2019-11-26 18:28:52,658  【线程ID】： 30    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:55165962_opening:499_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:52,660  【线程ID】： 29    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48920484_opening:499_打开 
+
+
+【日志时间】： 2019-11-26 18:28:52,677  【线程ID】： 75    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:222928_opening:500_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:52,679  【线程ID】： 74    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5201170_opening:500_打开 
+
+
+【日志时间】： 2019-11-26 18:28:53,661  【线程ID】： 76    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31883103_opening:501_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:53,662  【线程ID】： 30    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:50641231_opening:501_打开 
+
+
+【日志时间】： 2019-11-26 18:28:53,686  【线程ID】： 77    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38419526_opening:502_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:53,687  【线程ID】： 75    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:884314_opening:502_打开 
+
+
+【日志时间】： 2019-11-26 18:28:54,653  【线程ID】： 31    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29880497_opening:503_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:54,654  【线程ID】： 32    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:46115443_opening:503_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:54,655  【线程ID】： 76    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53984808_opening:503_打开 
+
+
+【日志时间】： 2019-11-26 18:28:54,655  【线程ID】： 77    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12825192_opening:504_打开 
+
+
+【日志时间】： 2019-11-26 18:28:55,650  【线程ID】： 33    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41758542_opening:505_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:55,652  【线程ID】： 31    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29378947_opening:505_打开 
+
+
+【日志时间】： 2019-11-26 18:28:55,656  【线程ID】： 78    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:50037955_opening:506_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:55,658  【线程ID】： 32    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26447307_opening:506_打开 
+
+
+【日志时间】： 2019-11-26 18:28:56,654  【线程ID】： 34    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24195807_opening:507_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:56,655  【线程ID】： 33    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:16666846_opening:507_打开 
+
+
+【日志时间】： 2019-11-26 18:28:56,662  【线程ID】： 79    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49593432_opening:508_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:56,664  【线程ID】： 78    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24339989_opening:508_打开 
+
+
+【日志时间】： 2019-11-26 18:28:57,665  【线程ID】： 10    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:15622304_opening:509_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:57,666  【线程ID】： 80    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12087183_opening:509_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:57,667  【线程ID】： 34    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56165595_opening:509_打开 
+
+
+【日志时间】： 2019-11-26 18:28:57,668  【线程ID】： 105    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53833886_opening:510_打开 
+
+
+【日志时间】： 2019-11-26 18:28:58,676  【线程ID】： 81    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20960210_opening:511_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:58,676  【线程ID】： 35    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26117529_opening:511_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:58,679  【线程ID】： 108    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:46346224_opening:511_打开 
+
+
+【日志时间】： 2019-11-26 18:28:58,679  【线程ID】： 110    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11148656_opening:511_打开 
+
+
+【日志时间】： 2019-11-26 18:28:59,650  【线程ID】： 36    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:18382646_opening:513_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:59,652  【线程ID】： 112    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8408657_opening:513_打开 
+
+
+【日志时间】： 2019-11-26 18:28:59,662  【线程ID】： 82    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:27061130_opening:514_关闭 
+
+
+【日志时间】： 2019-11-26 18:28:59,664  【线程ID】： 113    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20312474_opening:514_打开 
+
+
+【日志时间】： 2019-11-26 18:29:00,652  【线程ID】： 37    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31416984_opening:515_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:00,653  【线程ID】： 114    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44441069_opening:515_打开 
+
+
+【日志时间】： 2019-11-26 18:29:00,666  【线程ID】： 38    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4884916_opening:516_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:00,667  【线程ID】： 115    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:9721931_opening:516_打开 
+
+
+【日志时间】： 2019-11-26 18:29:01,661  【线程ID】： 83    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:27684052_opening:517_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:01,663  【线程ID】： 116    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:27691628_opening:517_打开 
+
+
+【日志时间】： 2019-11-26 18:29:01,672  【线程ID】： 84    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61757961_opening:518_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:01,674  【线程ID】： 117    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:50440837_opening:518_打开 
+
+
+【日志时间】： 2019-11-26 18:29:02,654  【线程ID】： 39    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61553366_opening:519_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:02,656  【线程ID】： 118    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5208074_opening:519_打开 
+
+
+【日志时间】： 2019-11-26 18:29:02,669  【线程ID】： 85    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:9478220_opening:520_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:02,671  【线程ID】： 119    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:16316550_opening:520_打开 
+
+
+【日志时间】： 2019-11-26 18:29:03,655  【线程ID】： 40    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29046109_opening:521_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:03,657  【线程ID】： 127    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38583834_opening:521_打开 
+
+
+【日志时间】： 2019-11-26 18:29:03,672  【线程ID】： 87    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7015286_opening:522_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:03,673  【线程ID】： 128    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60099196_opening:522_打开 
+
+
+【日志时间】： 2019-11-26 18:29:04,659  【线程ID】： 41    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6841439_opening:523_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:04,660  【线程ID】： 129    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36352017_opening:523_打开 
+
+
+【日志时间】： 2019-11-26 18:29:04,663  【线程ID】： 86    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54221170_opening:524_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:04,665  【线程ID】： 130    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2821170_opening:524_打开 
+
+
+【日志时间】： 2019-11-26 18:29:05,656  【线程ID】： 42    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30332228_opening:525_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:05,657  【线程ID】： 131    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11650131_opening:525_打开 
+
+
+【日志时间】： 2019-11-26 18:29:05,660  【线程ID】： 88    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44449979_opening:526_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:05,661  【线程ID】： 132    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44078461_opening:526_打开 
+
+
+【日志时间】： 2019-11-26 18:29:06,673  【线程ID】： 43    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:59577678_opening:527_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:06,675  【线程ID】： 133    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4257007_opening:527_打开 
+
+
+【日志时间】： 2019-11-26 18:29:06,682  【线程ID】： 89    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7154018_opening:528_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:06,684  【线程ID】： 144    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:14423373_opening:528_打开 
+
+
+【日志时间】： 2019-11-26 18:29:07,656  【线程ID】： 44    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:66405903_opening:529_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:07,657  【线程ID】： 90    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:54062827_opening:529_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:07,657  【线程ID】： 145    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61485378_opening:529_打开 
+
+
+【日志时间】： 2019-11-26 18:29:07,659  【线程ID】： 146    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49411579_opening:530_打开 
+
+
+【日志时间】： 2019-11-26 18:29:08,656  【线程ID】： 45    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57261520_opening:531_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:08,658  【线程ID】： 147    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58276464_opening:531_打开 
+
+
+【日志时间】： 2019-11-26 18:29:08,674  【线程ID】： 91    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63082605_opening:532_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:08,676  【线程ID】： 159    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48327173_opening:532_打开 
+
+
+【日志时间】： 2019-11-26 18:29:09,661  【线程ID】： 46    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52762096_opening:533_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:09,663  【线程ID】： 160    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20415488_opening:533_打开 
+
+
+【日志时间】： 2019-11-26 18:29:09,678  【线程ID】： 92    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58019479_opening:534_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:09,680  【线程ID】： 161    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24580251_opening:534_打开 
+
+
+【日志时间】： 2019-11-26 18:29:10,651  【线程ID】： 47    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:32329249_opening:535_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:10,653  【线程ID】： 174    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6297680_opening:535_打开 
+
+
+【日志时间】： 2019-11-26 18:29:10,655  【线程ID】： 93    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38794181_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:11,658  【线程ID】： 48    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39278763_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:11,686  【线程ID】： 94    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:37678437_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:12,658  【线程ID】： 49    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:57223309_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:12,659  【线程ID】： 95    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53070056_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:13,662  【线程ID】： 50    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:15230870_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:13,666  【线程ID】： 96    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:47908747_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:14,666  【线程ID】： 51    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29327215_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:14,683  【线程ID】： 97    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21459237_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:15,659  【线程ID】： 52    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:67030419_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:15,661  【线程ID】： 98    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:22898512_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:16,656  【线程ID】： 53    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12312372_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:16,677  【线程ID】： 99    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:55232281_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:17,661  【线程ID】： 54    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11968279_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:17,675  【线程ID】： 100    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:15300745_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:18,675  【线程ID】： 55    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40543320_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:19,669  【线程ID】： 56    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:9207334_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:20,658  【线程ID】： 57    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:31006055_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:21,665  【线程ID】： 101    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60354610_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:21,758  【线程ID】： 102    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:41414684_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:21,762  【线程ID】： 106    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:51669718_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:21,763  【线程ID】： 107    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30928332_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:21,766  【线程ID】： 109    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:30165869_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:22,165  【线程ID】： 111    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:23313708_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:23,166  【线程ID】： 58    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2132563_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:23,170  【线程ID】： 103    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12472879_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:24,172  【线程ID】： 59    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24975612_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:24,218  【线程ID】： 5    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:51288387_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:25,154  【线程ID】： 4    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63094882_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:25,156  【线程ID】： 104    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:47343487_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:26,170  【线程ID】： 6    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:40535505_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:26,177  【线程ID】： 60    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:27688131_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:27,159  【线程ID】： 7    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:35236192_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:27,164  【线程ID】： 12    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:52253787_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:28,170  【线程ID】： 13    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:463695_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:28,181  【线程ID】： 16    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:45725801_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:29,193  【线程ID】： 15    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28367532_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:29,193  【线程ID】： 14    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6590935_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:30,167  【线程ID】： 17    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64379541_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:30,309  【线程ID】： 61    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39296964_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:31,164  【线程ID】： 62    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:32845866_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:31,171  【线程ID】： 64    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48551116_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:32,157  【线程ID】： 18    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5135072_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:32,179  【线程ID】： 63    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58432123_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:33,180  【线程ID】： 19    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:713423_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:33,182  【线程ID】： 65    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11936749_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:34,155  【线程ID】： 20    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13119256_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:34,163  【线程ID】： 21    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64628464_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:35,161  【线程ID】： 66    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:21500028_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:35,164  【线程ID】： 67    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:7030517_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:36,161  【线程ID】： 22    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:19964545_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:36,184  【线程ID】： 69    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34531456_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:37,194  【线程ID】： 24    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38640280_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:37,195  【线程ID】： 23    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2882782_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:38,181  【线程ID】： 68    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:34163360_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:38,182  【线程ID】： 70    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:43148330_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:39,180  【线程ID】： 71    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:28745098_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:39,182  【线程ID】： 25    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:13391695_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:40,168  【线程ID】： 26    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5423467_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:40,175  【线程ID】： 72    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:39984030_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:41,182  【线程ID】： 27    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:63462474_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:41,184  【线程ID】： 73    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:64367902_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:41,671  【线程ID】： 28    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24624665_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:42,661  【线程ID】： 29    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48920484_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:42,679  【线程ID】： 74    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5201170_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:43,666  【线程ID】： 30    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:50641231_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:43,691  【线程ID】： 75    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:884314_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:44,656  【线程ID】： 76    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53984808_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:44,657  【线程ID】： 77    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:12825192_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:45,655  【线程ID】： 31    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:29378947_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:45,662  【线程ID】： 32    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:26447307_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:46,659  【线程ID】： 33    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:16666846_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:46,667  【线程ID】： 78    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24339989_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:47,670  【线程ID】： 34    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:56165595_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:47,671  【线程ID】： 105    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:53833886_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:48,682  【线程ID】： 108    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:46346224_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:48,683  【线程ID】： 110    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11148656_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:49,654  【线程ID】： 112    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:8408657_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:49,666  【线程ID】： 113    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20312474_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:50,655  【线程ID】： 114    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44441069_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:50,669  【线程ID】： 115    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:9721931_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:51,664  【线程ID】： 116    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:27691628_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:51,675  【线程ID】： 117    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:50440837_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:52,658  【线程ID】： 118    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:5208074_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:52,673  【线程ID】： 119    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:16316550_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:53,657  【线程ID】： 127    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:38583834_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:53,674  【线程ID】： 128    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:60099196_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:54,662  【线程ID】： 129    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:36352017_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:54,667  【线程ID】： 130    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:2821170_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:55,662  【线程ID】： 131    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:11650131_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:55,666  【线程ID】： 132    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:44078461_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:56,685  【线程ID】： 133    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:4257007_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:56,694  【线程ID】： 144    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:14423373_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:57,659  【线程ID】： 145    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:61485378_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:57,660  【线程ID】： 146    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:49411579_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:58,659  【线程ID】： 147    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:58276464_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:58,677  【线程ID】： 159    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:48327173_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:59,665  【线程ID】： 160    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:20415488_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:29:59,682  【线程ID】： 161    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:24580251_opening:536_关闭 
+
+
+【日志时间】： 2019-11-26 18:30:00,654  【线程ID】： 174    
+【日志级别】： DEBUG  
+【日志对象】：ConnectionCountTest  
+【日志内容】：hashCode:6297680_opening:536_关闭 
